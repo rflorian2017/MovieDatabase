@@ -5,34 +5,40 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
 
 public class Main {
 
 
     public static void main(String[] args) {
-        String user = "";
-        String password = "";
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-        try {
-            System.out.println("Please input user:");
-            user = reader.readLine();
+        //region read data from terminal
+//        String user = "";
+//        String password = "";
+//        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+//
+//        try {
+//            System.out.println("Please input user:");
+//            user = reader.readLine();
+//
+//            System.out.println("Please input password:");
+//            password = reader.readLine();
+//
+//        }
+//        catch (IOException ex) {
+//
+//        }
 
-            System.out.println("Please input password:");
-            password = reader.readLine();
-
-        }
-        catch (IOException ex) {
-
-        }
+        //endregion
 
         // write your code here
-        Connection connection; // used to open a connection to a database
+        Connection connection = null; // used to open a connection to a database
         try {
             connection = DriverManager.
-                    getConnection("jdbc:mysql://localhost:3306",
-                            user,//"root",
-                            password);//"admin");
+                    getConnection("jdbc:mysql://localhost:3306/imdb",
+                            "root", //user,//
+                            "admin"); //password);
             System.out.println("Connection successfully");
         }
         catch (Exception ex) {
@@ -41,6 +47,22 @@ public class Main {
                 System.out.println(entry.getMethodName());
             }
 
+        }
+
+        try {
+            // statement created from a JDBC connection
+            Statement statement = connection.createStatement();
+
+            statement.executeUpdate(
+                    "CREATE TABLE movies " +
+                    "(" +
+                    "id INTEGER PRIMARY KEY AUTO_INCREMENT, " +
+                    "name TEXT NOT NULL " +
+                    ") "
+            );
+
+        } catch (SQLException e) {
+            e.printStackTrace();
         }
 
 
