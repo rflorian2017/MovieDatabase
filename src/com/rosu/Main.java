@@ -1,10 +1,8 @@
 package com.rosu;
 
 import com.rosu.constants.Constants;
+import com.rosu.db.DatabaseWrapper;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -34,22 +32,12 @@ public class Main {
 
         //endregion
 
-        // write your code here
-        Connection connection = null; // used to open a connection to a database
-        try {
-            connection = DriverManager.
-                    getConnection(Constants.DRIVER_IMPLEMENTATION + "://localhost:3306/imdb",
-                            Constants.DB_USERNAME, //user,//
-                            Constants.DB_PASSWORD); //password);
-            System.out.println("Connection successfully");
-        }
-        catch (Exception ex) {
-            System.out.println(ex.getMessage());
-            for (StackTraceElement entry:ex.getStackTrace()) {
-                System.out.println(entry.getMethodName());
-            }
-
-        }
+        DatabaseWrapper databaseWrapper = new DatabaseWrapper();
+        Connection connection = databaseWrapper.createConnection(
+                Constants.DB_DRIVER_IMPLEMENTATION + "://" + Constants.DB_CONN_STRING,
+                Constants.DB_USERNAME,
+                Constants.DB_PASSWORD
+        );
 
         try {
             // statement created from a JDBC connection
