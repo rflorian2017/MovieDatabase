@@ -2,10 +2,7 @@ package com.rosu.db;
 
 import com.rosu.constants.Constants;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 
 public class DatabaseWrapper {
     private Connection connection;
@@ -36,5 +33,28 @@ public class DatabaseWrapper {
                         "name TEXT NOT NULL " +
                         ") "
         );
+    }
+
+    public void insertRecordBad(String movieName) throws SQLException {
+        /*
+        INSERT INTO table_name (column1, column2, column3) VALUES (val1, val2, val3)
+         */
+        Statement statement = connection.createStatement();
+        statement.executeUpdate(
+                "INSERT INTO movies " +
+                        "(name)  VALUES ( '" + movieName + "') ");
+
+    }
+
+    public void insertRecord(String movieName) throws SQLException {
+        /*
+        INSERT INTO table_name (column1, column2, column3) VALUES (val1, val2, val3)
+         */
+        PreparedStatement statement = connection.prepareStatement("INSERT INTO movies (name) VALUES (?)");
+
+        statement.setString(1, movieName);
+
+        statement.executeUpdate();
+
     }
 }

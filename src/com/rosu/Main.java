@@ -43,6 +43,7 @@ public class Main {
             );
 
            databaseWrapper.createTable();
+           databaseWrapper.insertRecord("Pirates of Caribean");
 
         } catch (SQLException e) {
             e.printStackTrace();
