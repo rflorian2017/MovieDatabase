@@ -41,26 +41,12 @@ public class Main {
                     Constants.DB_USERNAME,
                     Constants.DB_PASSWORD
             );
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
 
-        try {
-            // statement created from a JDBC connection
-            Statement statement = connection.createStatement();
-
-            statement.executeUpdate(
-                    "CREATE TABLE movies " +
-                    "(" +
-                    "id INTEGER PRIMARY KEY AUTO_INCREMENT, " +
-                    "name TEXT NOT NULL " +
-                    ") "
-            );
+           databaseWrapper.createTable();
 
         } catch (SQLException e) {
             e.printStackTrace();
         }
-
 
     }
 }
