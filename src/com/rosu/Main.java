@@ -33,11 +33,17 @@ public class Main {
         //endregion
 
         DatabaseWrapper databaseWrapper = new DatabaseWrapper();
-        Connection connection = databaseWrapper.createConnection(
-                Constants.DB_DRIVER_IMPLEMENTATION + "://" + Constants.DB_CONN_STRING,
-                Constants.DB_USERNAME,
-                Constants.DB_PASSWORD
-        );
+
+        Connection connection = null;
+        try {
+            connection = databaseWrapper.createConnection(
+                    Constants.DB_DRIVER_IMPLEMENTATION + "://" + Constants.DB_CONN_STRING,
+                    Constants.DB_USERNAME,
+                    Constants.DB_PASSWORD
+            );
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
 
         try {
             // statement created from a JDBC connection
