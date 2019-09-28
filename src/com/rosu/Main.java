@@ -1,5 +1,7 @@
 package com.rosu;
 
+import com.rosu.constants.Constants;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -36,9 +38,9 @@ public class Main {
         Connection connection = null; // used to open a connection to a database
         try {
             connection = DriverManager.
-                    getConnection("jdbc:mysql://localhost:3306/imdb",
-                            "root", //user,//
-                            "admin"); //password);
+                    getConnection(Constants.DRIVER_IMPLEMENTATION + "://localhost:3306/imdb",
+                            Constants.DB_USERNAME, //user,//
+                            Constants.DB_PASSWORD); //password);
             System.out.println("Connection successfully");
         }
         catch (Exception ex) {
