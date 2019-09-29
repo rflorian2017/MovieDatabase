@@ -1,21 +1,21 @@
 package com.rosu.model;
 
 public class Movie {
-    private int id;
+    private int id_pk_ai;
     private String name;
     private int year;
     private double rank;
-    public Movie(int id, String name, int year, double rank) {
-        this.id = id;
+    public Movie(int id_pk_ai, String name, int year, double rank) {
+        this.id_pk_ai = id_pk_ai;
         this.name = name;
         this.year = year;
         this.rank = rank;
     }
-    public int getId() {
-        return id;
+    public int getId_pk_ai() {
+        return id_pk_ai;
     }
-    public void setId(int id) {
-        this.id = id;
+    public void setId_pk_ai(int id_pk_ai) {
+        this.id_pk_ai = id_pk_ai;
     }
     public String getName() {
         return name;
