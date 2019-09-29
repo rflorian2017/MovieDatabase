@@ -1,0 +1,5001 @@
+actor_id,movie_id,role
+2,280088,Stevie
+2,396232,Various/lyricist
+3,376687,"Gitano 1"
+4,336265,"El Cigala"
+5,135644,Himself
+6,12083,
+7,252053,
+7,402635,
+7,409592,"Staff Humorist (1996)"
+8,101866,
+9,336265,"Amigo Cigala #2"
+10,12148,"Segundo Cuadro Flamenco 'Tang"
+11,80189,"Chavo Banda Galerias"
+12,12148,"Tercer Cuadro Flamenco 'Solea"
+13,80189,"Froilán plaza del estudiante"
+14,70079,
+15,12148,"Cuarto Cuadro Flamenco 'Taran"
+16,242675,"Agente #1"
+17,105231,Grandfather
+17,242453,Himself
+18,31949,"Himself (DJ, New York)"
+18,79902,"Himself/Disc Jockey"
+18,154709,Himself
+18,329618,"Big John"
+18,381501,Himself
+19,354847,Montaña
+20,51707,
+20,274679,"Real LAPD Officer"
+20,354841,Victoriano
+21,104008,
+22,91254,"Dirk Jan"
+22,373534,
+23,400294,"Oudste zoon (1993)"
+24,218857,"Officier van Justitie"
+25,313951,Eli
+26,342688,Himself
+27,251960,
+28,846,Themselves
+28,1465,Themselves
+28,1681,Themselves
+28,1975,Themselves
+28,2009,"Themselves - Performers"
+28,48489,Themselves
+28,182945,"Themselves - Performers: 'I W"
+28,221461,Performers
+28,221481,"Themselves - Performers"
+28,221482,Themselves
+28,303749,Himself
+28,319355,Themselves
+28,326663,Presenter
+28,358823,
+29,364376,Shorty
+29,380996,
+29,388200,
+29,411721,
+30,195632,
+32,36712,Angel
+32,372419,Marcus
+32,375827,"Funky Loft Guest"
+33,192542,Reporter
+34,37215,"Sugar Bear"
+34,170144,Himself
+34,318835,Himself
+34,360328,Himself
+34,402907,"Himself (1997)"
+34,406933,"Himself (1998-1999)"
+34,410688,"Himself (1999-2000)"
+34,410689,"Himself (1998-1999)"
+34,410690,"Himself (1998-1999)"
+34,410691,"Himself (1998-1999)"
+35,2252,"(segment "Id")"
+35,171288,Himself
+35,332015,Themselves
+36,202196,"Himself (Nation of Islam)"
+36,332097,Himself
+36,334069,"Themselves - Performers"
+36,388059,
+37,11666,Themselves
+38,1487,Himself
+38,2258,Himself
+38,2331,Himself
+38,2581,"Performer and winner of "Hey "
+38,2626,Himself
+38,31573,
+38,47174,Performer
+38,147745,"Silk Brown"
+38,221434,"Himself (Outkast)"
+38,221437,Performers
+38,221481,"Himself - Presenter"
+38,221483,Himself
+38,231536,Himself
+38,310533,
+38,342235,Himself
+38,347871,Valentine
+38,362060,"Kim Kyeong-su (MTV English Du"
+40,41469,Jah
+40,102366,
+40,148874,Themselves
+40,151109,"The Band"
+41,31906,Himself
+41,128684,Himself
+41,147920,Themselves
+41,341805,Himself
+41,366243,
+42,175703,
+43,1737,"Himself - Performer"
+43,1743,Himself
+43,2394,Himself
+43,2581,Himself
+43,32596,Himself
+43,32597,Himself
+43,47174,Performer/Himself
+43,120665,Himself
+43,221413,Himself
+43,221415,Performer
+43,221424,Himself
+43,221426,Himself
+43,221483,Himself/Performer
+43,257203,"Fred Payne"
+44,155542,Himself
+44,188231,Himself
+44,202194,Himself
+45,125478,
+46,321275,
+47,1975,Themselves
+47,2009,"Themselves - Presenters"
+47,48489,Themselves
+47,104646,Performers
+47,107618,Himself
+47,182945,"Themselves - Performers: 'The"
+47,267252,Themselves
+47,348351,Himself
+47,358823,
+48,399924,"Andelko Fiolic"
+49,81509,Himself
+50,359878,"Karate Contestant"
+51,304743,"Undetermined Role"
+52,209100,Rashid
+53,163971,Himself
+55,129829,Himself
+55,138307,Himself
+55,141875,"Li Xiao"
+55,212624,"Tennis Trainer"
+56,250721,"Celtic Warrior"
+57,251538,
+58,350570,Ghantayya
+59,252016,RaviKumar
+60,1487,Himself
+60,2040,Himself
+60,2394,Himself
+60,235417,
+60,305024,Himself
+60,350570,Pleader
+60,364376,"Test Taker No. 3"
+60,378707,Host
+60,391621,Himself
+60,398179,"Himself - Yellow Team"
+61,287805,
+62,246902,
+63,18472,
+63,43313,
+63,200749,
+63,216281,
+63,239310,
+64,64258,
+64,210390,
+64,403915,"Pak Lurah"
+65,318646,Sathyam
+66,312495,Brahma
+67,60552,
+67,165993,
+67,199261,
+67,204096,
+67,217194,
+67,247128,"Kampanna Dora"
+67,251677,
+67,288157,
+67,312488,
+67,312495,"Akasa Raju"
+67,350570,Judge
+67,354669,
+68,6512,Pønker
+69,51297,"O.G. Hansen"
+69,166846,"En skomakerlærling"
+69,173149,
+69,264300,"Espen Askeladd"
+69,312238,"Et spøkelse"
+70,10334,"Alexander Nyberg"
+70,94351,Professoren
+70,129166,"Ola Nordistua"
+70,166846,Jeppe
+70,219001,
+70,315378,"Evensen, kirketjener"
+70,340251,"Piper, direktør"
+70,347003,Krestoffer
+70,349902,"Jensen Sr."
+71,48130,"Høyland jr."
+71,51863,
+71,109137,"Fredrik Holm, doktor"
+71,144061,"Ole Grong, advokat"
+71,178434,Doktor
+71,178436,"Anton Schack"
+71,240313,"Gregor Ivanow"
+71,261141,"Per Haug, provisor"
+71,304976,Himself
+71,312238,
+71,338729,"Alexander Hassler"
+71,345718,
+72,225687,Aske
+73,37480,Slick
+74,61276,"Maj. Whitman"
+74,165223,Human
+74,263169,"Uncle Alfred"
+75,181077,
+75,389600,Daniel
+76,322463,Stian
+77,123572,"Policeman at Chauri Chaura"
+77,240089,Tekniker
+78,240392,
+78,298650,
+79,232749,Konsap
+79,370596,
+80,58684,Mechanic
+80,142231,"Ung mann hos teatersjefen"
+81,346995,
+82,262148,"Himself - Singer/Musician (gu"
+83,166604,Himself
+83,237304,Harmonikaspiller
+83,397074,"Jernbanearbejder (harmonika)"
+84,249472,
+85,28884,Dunke
+86,153219,Himself
+86,212334,"Himself - Participant/Perform"
+86,225683,Svend
+86,393474,Jesus
+86,393477,Himself/Jesus
+87,354606,"Den nye oppasseren"
+88,323958,
+89,32861,"Onkel Thorstein"
+90,15827,
+90,173335,
+90,242248,
+90,267642,Marten
+91,143429,"Michael Elliott"
+91,277868,
+91,311186,"Russel the Muscle"
+92,20034,"Teddy Hutchins"
+92,23316,"Tommy Addison"
+92,37555,Joe
+92,39988,"Little Boy"
+92,50974,"Student Leader"
+92,58641,Rusty
+92,83985,"Don Heldon"
+92,84250,"Eli Skinner"
+92,133949,Boy
+92,144861,Boy
+92,148840,"Johnny 'Small Warrior' Lowe"
+92,166839,"Bobby Stilwin"
+92,191242,"Johnny Briscoe"
+92,216026,Arthur
+92,218650,"Chuck Taylor"
+92,218745,Willy
+92,224327,Boy
+92,233930,Donovan
+92,237598,"J. B. Dorset aka Red Chief (T"
+92,271072,"Larry's Friend"
+92,277804,"Timmy Williams"
+92,308109,"Alternate Boy"
+92,323435,Corney
+92,379326,Rusty
+93,42686,"Himself (special award recipi"
+93,255707,Himself/Script
+93,291686,Patient
+94,2256,Nabil
+94,3182,Rico
+94,96424,"Jonas Teorén"
+94,163496,"Managers assistant"
+94,210286,Carlos
+94,281015,"El esposo"
+94,284138,Tommy
+95,138489,Judge
+96,196471,"Thug #3"
+97,256275,"Taxi Driver"
+98,223197,"Himself - Musician (guitarist"
+99,55126,Vicar
+99,297027,
+100,248215,Sami
+101,197493,"Punakaartilainen 7"
+102,176704,"Tuba player"
+102,183967,
+102,193554,Vacationer
+102,348727,Harri
+103,283478,"Nuori Vanki Joulunvietossa"
+106,392349,"Himself - the host (1995-1997"
+106,394962,"Himself - reporter (19??-199?"
+106,409748,"Himself - the host"
+107,177898,Conductor
+107,278875,Musician
+107,303708,
+108,352612,
+109,24289,"Man on lecture"
+111,176704,Teacher
+111,328684,"Various characters"
+112,9533,Printer
+112,153756,Painter
+112,170519,"Jussi Metelinen"
+112,196525,Jaakko
+112,233244,"Pehtoori (Manager of an estat"
+112,282146,
+112,293820,Sailor
+112,307139,Oskari
+112,320384,Lumberjack
+112,321973,Merchant
+112,341543,Kivinen
+112,341793,Juror
+112,343466,Janitor
+112,350590,Perälä
+112,354259,Virkkula
+113,255762,
+114,14278,
+115,103155,HD-kauppias
+115,182216,Himself
+115,182538,"Member of "The Creatures" ban"
+115,273341,Himself
+115,324482,"Costume designer"
+115,397925,
+116,38767,
+116,100011,Paakkila
+116,141887,Taksikuski
+116,153095,"Sakari Urpela"
+116,165803,"Kauppias Vähä-Kääkkönen"
+116,168790,"Venäläinen #2"
+116,169542,
+116,171584,"2. Poliisi"
+116,172294,"Kunnanlääkäri Rautonen"
+116,187568,"Gangsteri Nitti"
+116,237243,
+116,278367,Painter
+116,283746,"Kosti Mäkinen"
+116,301430,Sopimuspäällillö
+116,341808,Sexström
+116,349140,"Myyjä Alkossa"
+116,349147,"Tarmon anopin yhtiön johtokun"
+116,349440,Saarinen
+116,354260,"Pentti Lehmusto"
+116,357785,"Ruotsin kenraali"
+116,401125,"Pentti Reunanen"
+116,402792,"Liikemies Hallvik"
+117,21384,Juippi
+117,176704,"Man spreading red carpet"
+118,176704,Percussionist
+119,9533,Jäger
+119,215112,Boy
+120,230125,"Target #1"
+121,317650,
+122,31188,"Himself (ABC Team)"
+122,31191,"Himself (ABC Team)"
+122,61616,Himself
+122,64556,Himself/performer
+122,64560,"Himself (performer--human can"
+122,98155,"Tommy Bradford"
+122,98156,"Tommy Bradford"
+122,98157,Himself
+122,108329,Donny
+122,118918,"William Frankenstein"
+122,159499,"Tommy Allo"
+122,224981,Chema
+122,248429,David
+122,283440,
+122,289691,"Kenny Stevens"
+122,335126,"Tom Swift"
+122,348070,Gum
+122,373990,"Peyton Nichols"
+122,381654,"Benjamin Franklin (12 years o"
+122,381842,Bibleman
+122,383923,"Buddy Lembeck"
+122,387114,"Hank the Ranger"
+122,387309,"Robbie Hamlin (1983)"
+122,387374,"Tommy Bradford (1977-1981)"
+122,388362,"T.J. Latimer (1976-1977)"
+122,403335,"Young Wesley Jordache (1976)"
+122,407175,"Fred Robinson"
+122,410710,"Kenny Platt"
+123,239489,"Participant (Alpine skiing)"
+124,181082,"Anton Møller, lensmann"
+125,5218,Kollege
+125,160521,"Tom Engen"
+125,240113,
+125,404785,"Kalle Moe"
+125,409930,"P.K. Sunde (2 episodes 1998)"
+126,147018,Himself
+127,118318,
+127,131897,
+127,369075,
+128,12737,"Ed Cameron"
+128,27210,"Arthur Ferris"
+128,51746,George
+128,72464,Edgar
+128,72515,Policeman
+128,74215,Sims
+128,94856,"Senior detective"
+128,95499,"Mr. Brownless"
+128,134202,
+128,144785,"Jack Turnbull"
+128,279413,Mac
+128,281800,"Drouin Citizen"
+128,291840,
+128,364502,
+128,380191,
+128,381608,"Jim Bacon"
+128,382312,"Insp. Arthur Ferris"
+128,383658,
+128,396892,
+128,402012,"Jimmy Summers"
+128,405960,"Ron Jackson"
+128,411366,"Prosecuting Sergeant (Episode"
+129,356843,"Bygdas lensmann"
+130,255762,"Voice of God"
+130,301430,"Vekkilän lapsi#1"
+131,33190,"Presidential Aide"
+132,250861,Willy
+133,239588,"Street kid"
+133,304538,
+134,84713,Dharmanna
+134,184018,
+134,271762,Thanisha
+134,272705,
+135,137187,Bruno
+136,149730,Clyde
+136,157036,Wiley
+136,270697,"Rollerskating penguin"
+137,232749,Kohlapuu
+138,115688,"Vriend van Johnny"
+139,74048,"Children of Castor Fan"
+140,59880,Father
+141,322316,
+142,134256,Bondedreng
+143,202322,Slim
+144,303533,"Flic USA 1"
+144,313562,
+144,328263,Biotechie
+145,170921,
+146,24430,"Voice on Dr. Evil's telephone"
+146,93756,"Street crew"
+146,107265,"Brun Coach"
+146,121578,Himself
+146,145050,Kirk
+146,408643,"Himself (2002)"
+147,314501,"Soda Delivery Man"
+148,299443,Himself
+149,37012,Cabbie
+149,256188,"Tourist Dad"
+149,270971,"Prison guard #1"
+149,313141,"Bakery Foreman"
+150,185764,Michael
+151,45652,"Hank Bartlowski at 13"
+151,370648,"Bernard Stoltz"
+152,88653,Dancer/Sailor
+153,330550,"Helicopter Pilot"
+154,176496,Waiter
+155,70217,Himself
+156,62778,Dancer
+157,285322,Rodney
+158,138402,Himself
+158,158900,Himself
+158,167615,"Himself (MLB, Hall of Famer)"
+158,253851,"Witness for the defense"
+158,318692,"Hank Aaron"
+158,362865,Himself
+158,362866,Himself
+158,381356,Himself
+158,403155,Himself
+159,109570,Frank
+159,169433,
+159,199467,
+159,219526,Steward
+159,311632,Carstairs
+160,327840,"Henry (Slater Mill Boys)"
+161,123371,Renfro
+161,336914,"Allen Davis"
+162,153651,Fiance
+162,343201,"Best Man"
+162,380256,"Park Patron"
+163,72709,"Finnegan Jones"
+164,18982,Himself
+164,194918,Himself
+164,383803,"Himself (segment "First Step""
+165,135509,Dilip
+166,254762,"Lab Director"
+167,90342,"Deputy Jebb McQuarrie"
+167,159764,
+167,187685,
+167,201821,Himself
+167,336764,"Simon Yates"
+167,347708,McNab
+167,381211,"Pvt. Robert 'Popeye' Wynn"
+167,388791,Sion
+168,325587,Regisseur
+169,365960,Rabbi
+171,156785,"Tom Packard"
+172,75717,"Man in bar"
+172,93958,Doorman
+172,202657,"Mr. Mandel"
+172,302130,"Old Man #1"
+173,60253,"Young Morris Applebaum"
+173,185780,"Dr. Eisen/Janitor Murry Saltz"
+173,350191,"Young Bob"
+174,1300,"Quincy Tarantula"
+175,87879,"David Silwell"
+175,287509,Harris
+176,166639,"Matthew Carew"
+176,193202,Terry
+177,49347,"Hispanic Man"
+177,72697,Touch
+177,126282,Ulzana
+177,253335,"John Sleepwater"
+177,301635,
+177,318977,"Webster Skyhorse"
+177,385895,Gomez
+178,88933,Himself
+179,692,Himself
+179,2498,Himself
+179,57665,"Himself - Contributor"
+179,364588,Himself
+179,400150,Himself
+180,263791,Tony
+180,385020,"Jon Lindsay (1997-1998)"
+180,403047,"Cab Driver"
+181,107069,Panhandler
+182,6865,"Janitor #1"
+182,97581,"Fred Ott"
+182,105707,
+182,157595,Smitty
+182,176480,Priest
+182,222756,"Diamond Merchant #2"
+182,249163,"Policeman - V.A. Hospital"
+182,254923,Bastianelli
+182,293155,Vagrant
+182,349022,"Man on street #1"
+184,11525,"Financial Editor"
+185,346368,Boy
+186,115869,"Security Guard"
+186,326620,"Waiter in Trouble"
+187,215941,
+187,217601,Ismailoff
+187,372972,Lisma
+188,206671,"Malvern Cop"
+188,318457,
+189,116986,Trekkspiller
+190,399508,Drengen
+191,389138,"Kontorist hos Løvdahl"
+192,142491,Kid
+193,359894,
+194,298650,Himself
+195,180443,Tukkilainen
+196,254768,Persfotograaf
+197,387323,"Redactielid (1995-1996)"
+198,356555,Voorbijganger
+199,326954,
+199,393734,Narrator
+200,9239,
+201,405931,"Movie reviewer"
+202,2063,Sjefen
+202,11787,"Thorsen, Mettes venn"
+202,29890,"Philip Noel-Baker"
+202,42556,Direktøren
+202,105827,
+202,145474,"Orheim, psykolog"
+202,173252,"Arne, arbeidskam."
+202,178429,
+202,181161,Redaktør
+202,190818,"Engineer Borgheim"
+202,198057,
+202,214353,Leonid
+202,223204,"Ludvig, dikter"
+202,240109,"Larsen, sjåførlærer"
+202,240117,"Brock-Larsen, finansmann"
+202,242692,
+202,244068,Finansminister
+202,248190,"Wollert, profeten"
+202,271687,Ingeniøren
+202,304238,"Robert Westerlie"
+202,305858,Hugo
+202,334277,Overstyrmann
+202,345990,Legen
+202,349776,"Arild, soldat"
+202,387196,Kristoffer
+202,398251,Kommissarien
+202,405575,"Hans Nilsen Fennefos"
+203,278510,
+204,39111,
+204,172843,Ellingsen
+205,399510,"Peter Lycke"
+206,1807,Bårebærer
+207,219879,
+208,398497,"Participant (2001)"
+209,137745,"Cowboy Son"
+210,378936,"Participant (2001)"
+211,287550,Brennevinshandleren
+212,316635,"Hitman #1"
+213,34028,Giant
+213,59599,"Giant Man"
+213,134717,"Circus giant"
+213,139547,"Giant in 'Why Worry'"
+213,187483,Shorty
+213,193913,
+213,300023,"Very tall golfer"
+213,314930,Giant
+213,342843,"The Giant"
+213,364691,Colosso
+214,262129,Paramedic
+214,288387,"MiCI 1"
+215,51639,"Sir Chug-a-Lot"
+216,181314,Photographer
+217,403537,"Participant, 'among the 4 bes"
+218,321466,Striker
+219,94273,Arne
+219,399855,"Programleder (2001) (host)"
+219,406512,"Programlder (host)"
+220,383583,Programleder
+221,91471,
+221,165407,
+222,175562,"Shoe Merchant"
+222,271754,Vicki/sonu
+223,40493,"The Piano Guy"
+223,119879,"Stoned Man #1"
+223,142809,"Ginger Baker"
+223,176499,"The Zendic Kid"
+223,272661,"Jon Fontana"
+223,276240,"Featured Graveyard Undead #1/"
+223,304243,Sullivan
+223,343055,"Young Man"
+223,348608,"P.A. Kevin"
+223,406908,Billy
+224,220198,"Himself - Sailor"
+225,181799,Himself
+226,28990,
+226,153643,Sergei
+226,205672,Ludwig
+226,214792,"German general"
+226,268007,
+226,319967,Taanlane
+226,341609,"Finnish policeman"
+226,400449,
+227,95826,Unski
+227,145131,Oskarsson
+227,174209,"Aarne Mustonen"
+227,174478,
+227,177897,"Prisoner of war"
+227,179621,Grisu
+227,213379,"Restaurant owner"
+227,214835,"Erik Juhana Stenvall"
+227,240329,
+227,255935,"Kalle Aukustinpoika"
+227,293820,Harri
+227,349947,Romsu
+228,126115,
+228,129755,
+228,171628,
+228,226586,
+228,308266,Gottfried
+229,256622,Pirate
+230,343459,
+231,104729,Himself
+231,104777,"Turkish entry (16th place)"
+232,73538,child
+233,28092,Doctor
+235,83037,"Postière 1"
+236,328674,
+237,376777,
+238,53574,
+239,104769,"Himself - Spanish Entry (18th"
+239,400341,"Himself - Productor discográf"
+240,405412,Federico
+241,210590,
+242,222512,Interrogateur
+243,353637,
+244,266479,
+245,124115,"Police Officer"
+246,309007,Himself
+247,395861,
+247,401438,
+248,355808,"Le petit garçon du cortège"
+249,236458,"Vidal Gandolfo"
+249,399505,"Domènec Tubau"
+250,233917,Luis
+251,86730,
+251,161827,
+251,282118,Kane
+251,288142,
+252,157459,Himself
+252,353864,"Un punk"
+253,291612,"Nazi 2"
+254,96349,Vagabundo
+255,51703,Kamutri
+255,66608,Guide
+255,121301,
+255,159227,Tribesman
+255,179763,Hector
+255,187444,
+256,20649,
+257,159201,"Cory Franklin"
+257,161840,Pete
+257,224487,Himself/Dancer
+257,237798,Jerry
+258,46938,
+258,328130,Himself
+258,347369,"Radio Announcer"
+259,133834,Sheriff
+259,362224,
+260,296206,Weight-lifter
+261,8602,
+262,205760,Peter
+263,276309,"Un contremaître"
+264,220478,Stéphane
+265,346892,Passerby
+266,179745,
+267,56174,"Chu Ling"
+268,70648,
+268,294710,
+269,293857,
+269,300508,
+270,129649,
+270,288358,
+270,317293,Georgi
+271,230043,
+272,132139,"Man in Crowd #7"
+273,213396,
+274,127674,Newsman/Waiter
+274,217931,
+274,253105,"Desk Clerk"
+274,281608,
+274,317711,Armando
+274,358768,Artist
+275,77,Himself
+275,56871,"French Policeman"
+276,107909,"Tow Truck driver"
+276,271003,"Evelyns Driver"
+277,367822,Photographer
+278,62459,
+279,126933,
+280,24671,
+280,238463,Ali
+282,13492,
+283,352301,
+284,18632,
+284,59365,
+284,211464,
+284,253091,
+284,253563,
+284,255498,Frenchman
+284,263406,
+284,303789,"Japanese Ambassador"
+284,313726,
+284,316432,
+284,324336,
+284,357340,
+284,370132,
+284,387149,
+284,397683,
+284,400448,
+285,132221,"Dead Pile"
+286,171107,
+287,153239,Yesayi
+287,184209,Gago
+288,50971,"Garçon casting 1"
+289,263678,
+289,349217,
+290,7375,"Master Abu Laboke"
+290,131537,"Vietnamese Student"
+291,264985,
+292,63574,
+293,60142,Raptor
+294,41164,"Gary Rembrandt"
+295,92663,
+295,378958,"Federico Ramos"
+295,391440,
+295,402630,Fede
+295,402721,
+295,405918,
+296,313049,"Ganas kid"
+297,30964,"Batman/Bruce Wayne"
+297,74493,
+297,80788,
+297,149651,
+297,154589,
+297,176853,
+297,183832,
+297,269958,Omar
+297,325313,
+297,358504,
+298,62356,
+298,236065,
+298,295498,
+298,317241,
+298,378720,
+299,84498,
+300,243712,"Ramon's Friend"
+301,70833,
+302,221708,
+303,334683,Luisito
+305,269841,"L'arc en Ciel Band"
+306,21307,Himself
+306,225804,"Himself (Tightrope Walker)"
+307,286291,
+308,339855,Kapitein
+309,129812,Johnny
+310,118924,Stonemason
+310,178477,"Angelika's husband"
+310,181360,
+310,220144,Player
+310,237701,
+310,261670,Sosnowski
+310,328798,"Jan Otis"
+310,375474,
+311,111035,
+311,236164,
+311,382219,Maurice
+312,100707,
+313,397009,"Papá Evelyn"
+314,202599,
+315,86279,"Director (WZDC)"
+315,262647,Cop
+316,43661,
+316,96354,"Carlos Belascoaran"
+316,287886,
+316,380445,"Mariano Jiménez"
+316,381650,Fabricio
+316,391572,Francisco
+316,396211,Renato
+316,398794,Gerardo
+316,402219,"José María 'Chema' Ramos Lópe"
+316,405955,
+317,131944,
+317,374461,
+318,23853,"(segment "Pesnya, ili Kak vel"
+318,79255,"Arkipo Sethuri"
+318,228540,Gaulatsune
+319,13492,
+319,19501,"Prince Vahvari"
+319,19502,Mikho
+319,19602,Shavlegi
+319,21868,
+319,30623,Abdoushahili
+319,50062,Gedeoni
+319,61086,Bochi
+319,62859,Bichino
+319,86240,Sosana
+319,86252,"Mamamze Eristavi"
+319,127929,Rezo
+319,176019,Aluda
+319,179694,
+319,182253,"Kvarkavre Tutaberi"
+319,200053,
+319,202256,
+319,208006,Margaya
+319,209090,Ushangi
+319,212305,
+319,216550,"Head of Agrocultural Company"
+319,221406,
+319,243494,Gogi
+319,253795,
+319,255536,"Head of Police"
+319,256682,
+319,256696,Jasoni
+319,259042,
+319,268574,
+319,270410,
+319,282242,Niko
+319,302430,Aleqsandre
+319,328945,Driver
+319,341221,Aslani
+319,341233,Nestor
+319,344094,Dodo
+319,352283,"Head of Police"
+319,374669,"Film Director"
+319,374670,Gocha
+320,4826,Piliceman
+320,62856,Tedo
+320,63592,Vaja
+320,129217,Gabro
+320,162720,Dato
+320,208610,
+320,285089,Elgudja
+320,341240,Badri
+321,9394,"Nikusha Chachanidze"
+321,16548,
+321,19507,
+321,46198,
+321,132193,
+321,243719,
+321,253795,
+321,271847,
+321,287960,
+322,288639,
+323,20878,
+323,175955,Grandpa
+323,268815,
+324,138937,
+325,269140,
+326,93223,"Aquarium Security Guard"
+326,126663,Vendor
+326,138669,"Mafia Guy Applicant"
+326,171227,Lederhosen
+326,340765,Guard
+327,233316,
+327,301291,
+327,313888,
+327,341216,
+327,378291,
+328,357697,
+329,18088,
+330,82743,"Street Kid"
+331,14564,Sandro
+331,20751,"Damiano Fortezza"
+331,20794,Felice
+331,20795,
+331,23571,Aldarico/Attila
+331,29774,Matteo
+331,52871,Dario
+331,52880,Tangaro
+331,53016,Camillo
+331,69141,Umberto
+331,97164,Donato/Tirzan/Franco
+331,108875,Fornaio
+331,111891,Felice
+331,111906,"Capo delle 'Belve'"
+331,112643,Tommaso
+331,132807,"Mago di Segrate"
+331,162053,Sergio
+331,189290,Lucio
+331,205488,"Alberto Brogini"
+331,206320,Ponchia
+331,207947,Paolo
+331,209489,"Nicola Lorusso"
+331,212094,"Paolo Torregiani"
+331,217116,
+331,217609,Voice
+331,229601,"Fulvio Colombo"
+331,233188,Solo
+331,247967,"Padre Gabriele"
+331,248056,"Il King"
+331,252641,Joseph
+331,263240,"L'esattore della luce"
+331,266897,"Mario Tozzi"
+331,270883,Nicola
+331,272453,"Domingo Ras"
+331,274785,"Franco Mattioli"
+331,279243,"Franco Mattioli"
+331,281108,"Il Secco"
+331,289211,"Il tifoso"
+331,289330,Ducho
+331,291556,Piero
+331,315939,Dario
+331,324460,Diego
+331,328891,"Angelo Beliossi"
+331,332747,Zebrone
+331,336197,Franco
+331,338003,
+331,342038,Dario
+331,344611,Duccio
+331,349520,Galeazzo
+331,349532,
+331,355762,"Achille Cotone"
+331,355820,"Padre Pedro"
+331,384758,"Commissario Corso"
+331,386329,Diego
+331,387944,"Commissario Corso"
+331,390128,
+331,404686,"Orso, the desertor"
+332,50993,"Mari africain"
+332,62459,
+333,189396,
+333,317572,
+334,198,
+334,64245,
+334,307440,
+334,334479,
+335,189295,
+335,229425,
+336,365194,Bartender
+337,10150,Demon
+337,11426,"Dr. David Wyckoff"
+337,24137,"Maitre D'"
+337,46529,Sam
+337,65754,Administrator
+337,72106,Peter
+337,79938,"Talk Show Host"
+337,81652,"Restaurant Owner"
+337,108333,"Examiner #2"
+337,115470,"Dishevelled Man"
+337,154040,"Court Clerk"
+337,163492,"Second Cuban"
+337,186680,"Yogi Gupta"
+337,213097,
+337,223026,Lucien
+337,285049,"Phil Lombardi"
+337,296808,"Deputy Hank Hart"
+337,304822,Locke
+337,317902,Salazar
+337,337098,McKlellen
+337,340732,"Glen Fulton"
+337,346902,Repairman
+338,145238,
+339,256260,Bizie
+340,281402,"Patron #1"
+341,130016,"Old Man"
+341,200063,Lenny
+341,224192,Mobster
+341,276858,"Dr. Vernon Peck"
+342,249819,"Boy in Bath"
+343,164157,Detective
+343,166274,
+343,253522,"Le chauffeur de taxi"
+343,283021,
+344,120635,Officer
+344,213352,"Lord William"
+345,103951,
+346,307741,"Westtech Security #2"
+347,53617,
+347,104718,Himself
+347,104730,Host
+347,104779,Host
+347,387959,"Himself - Co- Presenter (2004"
+347,405465,Raci
+348,269722,Jhong
+349,135366,
+350,25982,
+350,97990,
+351,25536,"Abdel Hakim Amer"
+352,8596,
+352,8603,
+352,9751,
+352,12257,
+352,14440,
+352,15314,
+352,15350,
+352,19608,
+352,23166,Hamdi
+352,25490,
+352,25999,Kamal
+352,27759,
+352,37717,
+352,77123,
+352,88342,Bigeard
+352,98102,"Mohamed El-Guindy"
+352,100224,
+352,100901,Ahmed
+352,111829,
+352,117984,
+352,122699,
+352,124213,"Ahmed Ezzat"
+352,140430,Khaled
+352,140851,
+352,147082,
+352,153304,
+352,159963,
+352,162237,
+352,164058,
+352,172637,
+352,174638,
+352,176073,
+352,180542,"Samy, The Director)"
+352,183008,
+352,184307,
+352,187638,
+352,201234,
+352,202114,
+352,202422,
+352,208268,
+352,214129,
+352,214332,
+352,216683,
+352,221766,
+352,222464,
+352,222889,
+352,222989,Amin
+352,229470,
+352,260882,
+352,271591,
+352,272952,"Ahmed Ragab"
+352,286764,
+352,294637,
+352,297144,"Saad Selim"
+352,298859,
+352,303351,
+352,309598,
+352,324286,
+352,324941,Saber
+352,324992,
+352,324993,
+352,327685,
+352,334769,
+352,358012,Mahmud
+352,370134,
+352,372391,
+352,375923,
+353,409281,
+354,244185,
+355,187325,Omar
+356,173011,
+357,409010,
+357,410403,
+358,259713,"cameriere del Baloon"
+358,269739,Impiegato
+359,90154,Soldier
+360,116882,Himself
+361,16151,"Jimmy Edward Benedictus"
+361,169017,Joni
+362,11446,"Fat Ira"
+363,24339,Conductor
+363,65387,Himself
+363,129042,Conductor
+363,141779,Conductor
+363,148614,Conductor
+363,197927,Conductor
+363,276076,"Himself (conductor)"
+364,388646,Karim
+365,396649,
+366,5192,"Santa Lucia Club Owner"
+367,37693,
+367,102769,
+367,231885,"Intimate Strangers Segment"
+367,319910,Policeman
+367,380039,
+368,16182,
+368,18068,"Rajnath Guru"
+368,83741,
+368,135941,
+368,137812,
+368,139993,
+368,164768,
+368,171992,Arun
+368,173317,
+368,210215,
+368,214723,"Rajiv Samuel"
+368,246314,"Nilambari's nephew"
+368,247292,Anand
+368,273417,
+368,285825,
+368,299456,
+368,320408,
+369,5932,"Arab guard"
+369,16684,
+369,20625,Extra
+369,24705,"Mexican Vendor"
+369,32066,Hoodlum
+369,36970,
+369,96829,"Carnival Townsman"
+369,112582,"Construction worker"
+369,164862,
+369,177528,Arab
+369,183627,"Man With Potted Palm"
+369,198844,Arabian
+369,223913,"Fireman/Egyptian porter"
+369,303112,"Arab Singer"
+369,346185,
+369,360482,
+370,171938,
+371,217096,
+372,23298,
+372,53853,Sabonete
+372,63821,
+372,70771,
+372,184299,
+372,213736,
+372,275029,
+372,276572,Lucas
+372,295094,
+372,333696,
+372,344755,
+372,361081,
+372,380086,
+372,380154,
+372,383243,Teodoro
+372,383677,Vitório
+372,383907,
+372,388641,
+372,389789,Delacroix
+372,390507,
+372,392846,
+372,393463,
+372,393876,
+372,394600,
+372,395366,João
+372,395405,
+372,398362,
+372,400597,
+372,401199,Padilha
+372,401482,
+372,402264,Guedes
+372,404271,Pedro
+372,405808,
+372,408315,
+372,409407,Homero
+372,409902,
+372,409937,Indalécio
+372,411579,
+372,412270,
+373,129737,Shukri
+373,300565,Spy
+373,332419,Jaber
+373,371908,Nadim
+374,171724,"Balti Porter"
+375,209,"Karl Meyer"
+375,43144,Artist
+375,109789,"Quentin Sylvester"
+375,114177,"Sampson Cavor"
+375,125874,
+375,136538,"Biergarten Manager"
+375,159542,
+375,199342,"Le Blanc"
+375,203553,Nichols
+375,239746,"Wizista, the hypnotist"
+375,241627,Driver
+375,252441,"Old Spanish Jew"
+375,264054,Murray
+375,275411,"Burgher at auction"
+375,281358,
+375,290336,Moses
+375,358976,Zapportas
+375,358977,"Isaachar the Miser"
+376,237087,"Prime Minister of Palestine ("
+377,77047,
+377,93103,Abbas
+377,174148,Mohan
+377,272173,Pappu
+377,375202,
+378,149953,"Head Kidnapper"
+378,202080,Ibrahim
+379,312532,
+380,62716,
+381,344356,
+382,131215,Kamel
+383,234872,Niaz
+384,47973,Asif
+384,137930,"Attendant to Claudius"
+384,160034,Journalist
+384,403462,"Nazir Mailk"
+384,408637,"Tariq Khan"
+385,86593,
+385,344279,
+385,357212,
+386,301291,
+387,187325,Conductor
+388,162734,
+389,172079,
+389,330353,Coolie
+390,252009,
+391,66308,"Hitman #1"
+391,224184,"Construction worker"
+391,304716,"Carlo D'Agnese"
+391,330890,"DeGrazio Soldier Outside Ware"
+392,5372,"Lucio Dawla, the singer"
+392,96523,
+394,102616,"Prof. Marino"
+394,124567,
+394,129039,
+394,229603,"Vincenzo Rapallo"
+394,270840,
+394,272855,
+394,286980,
+394,342025,
+394,355236,"Gen. Martini"
+394,356223,"Mario's father"
+394,390092,
+394,409441,
+395,12912,"Monsignor Rea"
+395,17671,
+395,25859,
+395,56328,Terenzi
+395,56354,"7th Brigadist"
+395,61367,Gianluca
+395,63890,
+395,68781,
+395,69219,
+395,86064,Terrorist
+395,94638,Maresciallo
+395,97167,Schoolmaster
+395,111159,"Prof. De Angelis"
+395,121898,
+395,156547,Vincas
+395,212499,Mele
+395,246416,
+395,292270,"Zio Umberto"
+395,293357,
+395,313179,"The Patient"
+395,327486,
+395,340310,
+395,344583,
+395,355357,
+396,181276,Sal
+399,355880,
+401,410838,"Onno Biels (2000-2001)"
+402,131372,Outsider
+403,26225,"Henry Dawes"
+403,26729,"H.H. Hornby"
+403,44711,"James D. Griswold"
+403,54369,"Cappy Ricks"
+403,69681,"Eskew Arp"
+403,148565,"Rufus Brent"
+403,233070,"Peter Amos Dunn"
+403,361661,"R.N. Arnhalt"
+404,108221,"Jeune ouvrier"
+405,60169,"The valet"
+405,142988,"Kato Nakamura"
+405,195096,"Quong Sung"
+405,224825,Yano
+405,246477,Wong
+405,323787,"The Worm"
+405,335410,Lucero
+405,364200,"Taro San"
+405,365887,Nogo
+406,364013,"Lt. Rossini"
+407,367531,"Prof. Pesca"
+408,133536,"Dan Patch, a Horse"
+409,91255,
+410,170243,"Crew mate"
+411,307686,"Third Man"
+412,375687,
+413,73251,Lucien
+413,101170,"Grand-père Tambourin"
+413,217727,L'Espagnol
+413,262934,"Joseph Servettaz"
+414,72827,"Park Quartet"
+415,288331,
+416,80696,Bunny
+416,159132,"T-Shirt Man"
+417,156309,"L'agent américain/CIA Agent"
+417,220926,"Mr. Freedom"
+417,257886,"Mr. Lacs"
+417,287230,
+418,228473,"Home Plate Photographer"
+419,20625,Extra
+419,128171,Eskimo
+419,154785,Torres
+419,223392,Eskimo
+419,285605,"Sinister Driver"
+419,308155,Bartender
+420,154927,"Kristal's dad"
+421,107857,"Mick Schumann"
+421,132139,"Relative of Malchus"
+421,222878,Prisoner
+421,299040,"Boxing Fan"
+421,382806,"Carlton (American Footballer "
+421,382826,"Restaurant Diner"
+421,387247,"Mack (2003)"
+421,391079,Photographer
+421,403059,"Transport Soldier"
+421,409386,"SAS soldier #1"
+422,140444,Lonzo
+423,137882,Ibrahim/Polonius
+424,19215,
+424,33676,Enzo
+424,43994,"Assistant occulist"
+424,70005,
+424,74746,
+424,119856,Pippo
+424,229639,
+424,265310,
+424,309170,"Party guest"
+424,351542,
+425,216099,
+426,37215,Hazad
+427,97850,"Le chauffeur de taxi"
+428,121497,"Fighter in Bar"
+429,355237,"L'homme à la décapotable"
+430,57102,"Peter #1"
+431,224680,"Morris Carthew"
+432,372329,"Team Member"
+433,327840,"Piano, Country Blues Band"
+434,190213,"Dog Park Friend #2"
+435,23463,Sergeant
+436,59912,Recruit
+437,23917,Himself
+437,144406,Fagin
+437,232018,Various
+437,252995,
+437,384674,Himself
+437,389312,
+437,396379,
+437,396932,"Ted Butler"
+437,403970,"Various Characters"
+437,403971,
+437,404862,"Ted Fenwick"
+437,409143,(2002)
+437,410867,"Himself - Contributor"
+437,410918,
+437,411024,
+438,57102,"Peter #2"
+439,4623,Himself
+440,41211,"Anthony's Thug"
+440,80619,"Quartermaster Lt. Green"
+441,160141,Gustavo
+441,313939,Peter/Cop
+442,240235,"Himself (Dept. of Roads Direc"
+443,113956,Bodyguard
+444,43227,
+445,79556,Constable
+445,194996,"Reporter 1"
+445,196903,"Officer Phillips"
+445,347348,"Sgt. Wright"
+445,400466,Teacher
+446,243731,"Tom Henton"
+447,27207,"Dr. Alex Karmen"
+447,27952,"Dove Christian"
+447,39861,"Michael Russo"
+447,46757,"Dan Cain"
+447,56654,Keith
+447,68276,"Deke Williams"
+447,82669,"Prof. Jack Crowley"
+447,86750,"Harry Pierpont"
+447,161132,Swan
+447,168733,"Tom Kelly"
+447,172666,"Sam (Father)"
+447,210233,"Alex Kramer"
+447,245216,"Channing Taylor"
+447,265861,"Thomas Daggett"
+447,273157,"Dan Cain"
+447,318712,"Jack Ruffin"
+447,337990,"Taylor Black"
+447,338273,"'John Doe'"
+447,364611,Markus
+447,382282,"Jake Hale Jr."
+448,660,Himself
+448,4618,Lester
+448,4619,"Buzz Kurtis"
+448,4620,"Bud Jones"
+448,4621,"Rocky Stonebridge"
+448,4622,Slim
+448,4623,
+448,4624,"Bud Alexander"
+448,4625,"Harry Pierce"
+448,4626,"Casey Edwards"
+448,4627,"Peter Patterson"
+448,7642,"Buzz Johnson"
+448,24533,"Himself - in a Jeep in Parade"
+448,37255,
+448,48569,"Slicker Smith"
+448,48570,"Slicker Smith"
+448,48651,"Chick Young"
+448,68135,"Al Stewart"
+448,77677,"Bud Flick"
+448,113940,"Man in Long Shots"
+448,121813,Himself
+448,143565,"Slats McCarthy"
+448,144398,
+448,146759,"Flash Fulton"
+448,147414,"Chuck Murray"
+448,158067,"Eddie Harrington"
+448,158364,"Smokey Adams"
+448,163190,"Grover Mockridge"
+448,164389,"Mr. Dinkel/Mr. Dinkelpuss"
+448,175111,"Blackie Benson"
+448,191833,"Eddie L. Morrison/T.S. Chandl"
+448,194831,"Peter 'Pete' Johnson"
+448,194834,"Tom Watson"
+448,209659,Himself
+448,210615,Himself
+448,212196,"Harry Lambert"
+448,228660,"Dexter Broadhurst"
+448,231053,Himself
+448,234889,"Ted Higgins"
+448,241592,Abbott
+448,248838,"Algernon 'Algy' Shaw"
+448,255337,Himself
+448,277844,Duke
+448,278607,Doc
+448,291323,Himself
+448,291355,Himself
+448,291389,Himself
+448,328553,"Chick Young (Abbott and Coste"
+448,329565,
+448,333300,"Cuthbert/Dr. Greenway"
+448,364156,"Chick Larkin/Voice of Himself"
+448,366696,"Duke Egan"
+448,368427,
+448,379045,"Bud Abbott"
+448,379046,Abbott
+448,381356,"Himself - Who's on First rout"
+448,383804,"Himself - selling war bonds"
+448,384597,"Himself (Host, 1951-1954)"
+449,321394,"Meditation teacher"
+450,328277,"Infant John Connor"
+451,296750,"Ref (CJ/Opponent #1)"
+452,62932,"Mr. Fox"
+452,72653,"Hank Storm"
+452,173933,"Yahoo #2"
+452,313756,"Vincent Van Gogh"
+452,330104,"Prof. Adkins"
+452,333326,"Hank Duggan"
+453,61844,
+453,396117,"Bentley Saxton (1977-1978)"
+454,29736,"Dr. Kirby Halstrom"
+454,118970,Politician
+454,244838,Judge
+455,57657,Himself
+455,410688,"Tank Abbott (1999-2000)"
+455,410689,"Tank Abbot (1999-2000)"
+455,410690,"Tank Abbott (1999-2001)"
+455,410691,"Himself (1999-2000)"
+456,82943,"Stanley Woods"
+457,27686,
+458,375765,Will
+458,386236,"Takase, Additional Voices"
+458,389570,"Tower Of Babel Technician, Ad"
+458,394492,"Additional Voices"
+459,107277,
+459,365210,Yuma
+460,71595,Tracker
+460,301072,Constable
+461,809,Forbus
+461,30311,"Gordon (Boardroom)"
+461,64933,Lloyd
+461,149725,Saul
+461,216169,"John Andrews"
+461,277096,"Douvier's soldier #1"
+461,388977,"Vern Daniels"
+462,299183,Himself
+463,138890,Roy
+463,158882,Leader
+463,313166,Terry
+463,333102,"Simon Brentwood"
+463,364864,Miner
+463,389167,"Mick Shipley"
+464,22176,"Patron in Cafe/Rose's Friend "
+464,353510,"Prince Albert"
+465,382269,Himself
+465,411497,Himself
+466,157247,Lem
+466,175525,"Himself (Honoree)"
+466,402245,"Mr. Antrobus"
+466,409306,"Host (January-April)"
+467,42402,"Deputy Freleng"
+468,117468,"Paramount Newsreel Voice"
+468,289443,Himself
+469,271110,"Oscar Nelson"
+470,368171,Himself
+471,318967,Jonty
+472,171160,
+473,7295,"Government official"
+473,107430,
+473,132572,
+473,192068,
+473,236668,
+473,263487,"Ralph Connor"
+473,359887,
+474,406982,"The Band (1990-1991)"
+475,26844,"Scooter Kid #2"
+475,192302,Sponge
+475,212960,"Frank Lanford"
+475,259828,"Kane's People"
+475,328839,"Boy Mayor"
+475,390691,"Stinky Sullivan (1989-1991)"
+476,192726,"Mr. Plummer"
+477,46742,"Crowd Member #2"
+478,37867,Hassan
+479,18158,Mike
+479,167043,"Rev. Jesse Jackmon Jr."
+480,1694,Gregorius
+480,5114,Salesman
+480,6282,"Orchestra conductor"
+480,6815,Huish
+480,17506,"Phya Phrom"
+480,29078,"Will Scarlett"
+480,39283,DuQuai
+480,56711,"Dr. Reinhart"
+480,60766,Gayeff
+480,69690,"De Rozier"
+480,73174,"Jimmy Gordon"
+480,73772,Baker
+480,73904,Sykes
+480,74238,"Peter Althius"
+480,78017,"Roland Smith"
+480,81576,"Bertram Gribble"
+480,93101,
+480,100854,"Chris Martin"
+480,102113,"Ms. Robson's host"
+480,107695,"Martin S. Dwyer"
+480,123280,Emile
+480,126513,"Prof. Radowsky"
+480,127621,Manuel
+480,132047,"Dr. Ferris"
+480,133953,Aben
+480,138383,"Czech Hostage in"
+480,148927,Welles
+480,152656,Rozner
+480,155902,"Mr. Twyning"
+480,157187,"John Worthing"
+480,165444,Mason
+480,168126,"English Spy"
+480,170723,"Akela the Wolf"
+480,183722,Manservant
+480,193583,"Jack Rawlings"
+480,199304,"Mayor Tuvache"
+480,199586,
+480,207138,"Mr. Pappas"
+480,211602,"Marshovian Ambassador"
+480,214968,Psychiatrist
+480,215862,Grinko
+480,221297,"Fred, Beldon Porter (Church)"
+480,228820,"Pappa Cerrano"
+480,232408,Karl
+480,235695,"Lal Bara"
+480,240245,Yusuf
+480,241134,Reporter
+480,241561,Joseph
+480,245498,Coroner
+480,262072,"Kaspar Andropolous"
+480,266721,"Dipso Dave Rutherford"
+480,267615,Jodri
+480,269586,
+480,276797,
+480,277692,"Simon Burley"
+480,280482,"Herbert Bielensen"
+480,282855,Dumbo
+480,285711,"Count Stephen Duni"
+480,288208,"Roscoe Bean"
+480,292855,"Mortimer Cope"
+480,297369,"Poppy's Escort"
+480,298590,"Heller, Adler's Butler"
+480,300924,Pierre
+480,304538,"Dr. Frankenstein"
+480,307842,"Don Daniel"
+480,314250,"Mustafa el Melik"
+480,318793,Lunin
+480,327426,Prospero
+480,327688,André
+480,330167,Vanescu
+480,330664,Joe
+480,330842,"Hood with Foreign Accent"
+480,331180,"Ali (the tailor)"
+480,331392,
+480,332026,"Nitra Puta"
+480,332042,"Abel Harmer"
+480,333319,"Max Leiberman"
+480,343876,"Alfonse Lamont"
+480,346053,Armand
+480,350220,"Webb Fallon"
+480,358873,"Dr. Bonfant"
+480,360632,"Charles Murdock"
+480,364357,Roberts
+480,367535,"Frederick Fairlie"
+481,68447,"Commissioner's Laywer"
+481,118393,"Polite Verger (Wedding four)"
+481,140678,"2nd Gambler"
+481,200199,Reporter
+481,209185,"Second Gentleman"
+481,277057,Tom
+481,338786,Joyce
+481,372717,Chairman
+481,387332,"Mouth Organist"
+481,394146,"Derek Cashmere"
+481,408638,Lawyer
+482,411056,"Rodney Potter"
+483,348835,Clem
+484,101570,Richard
+485,1685,"Himself (New York Mets shorts"
+486,193408,Himself
+487,306751,Brian
+488,154039,
+489,134522,Tukayoo
+489,228479,Mark
+489,312266,Pocknet
+489,339401,"Bear Shield"
+489,345689,"Jumping Elk"
+490,98113,Dan
+491,38405,
+491,60564,Mike
+491,81068,
+491,113393,Hawk
+491,138239,
+491,232957,
+491,232979,
+491,368068,"Thug 2"
+492,192726,Larry
+493,132765,"Whistling Messenger"
+493,175119,Ape
+493,358649,Doc
+493,363742,Attendant
+494,3888,Himself
+495,186843,"Mr. Welch"
+496,100126,Himself
+497,41393,Deputy
+497,44450,"Platoon - Vietnam"
+497,83967,Greg
+497,158113,Jeremy
+497,275602,"Young executive #2"
+497,317736,Ballast
+498,27567,Himself
+499,257809,Himself
+500,80834,"Mr. E."
+501,36855,Himself
+501,381917,"Big Brother (2001-2003)"
+502,26636,Arnold
+502,53162,Flickinger
+502,67560,"Judge Foster"
+502,70558,"Dist. Atty. George Garfield"
+502,71271,"Assistant Director Arthur War"
+502,86748,"Harry Pierpont"
+502,103266,"Harry Webb"
+502,108771,Manning
+502,114223,Cardinal
+502,138322,"Frank Morrison"
+502,161889,"Dr. Tom Merrinoe"
+502,214965,"Col. Reed"
+502,232441,
+502,265869,
+502,267109,Grandpa
+502,288999,"Chief Pruitt"
+502,311249,Frolick
+502,311944,"Mr. Pierson"
+502,313756,"Dr. Ruby"
+502,321145,"Dr. George Scudder"
+502,323147,"Sen. Scott Lucas"
+502,331081,"Dell Fraser"
+502,388149,"Assistant Director Arthur War"
+502,389858,"Dr. Alex Baker (1987)"
+502,392139,"John Collier"
+502,394457,"Ed Barrett"
+502,402245,Brinkerhof
+502,403335,"John Franklin"
+502,404613,"Dr. Dan Walton, Sr. #2 (1961-"
+503,32818,"Danish undergroud leader"
+503,49597,"Jones & Co. Clerk"
+503,60036,"Mr. Blythe, Archie's Assistan"
+503,70960,Doctor
+503,105804,"Dutch Berger"
+503,118232,"Allard Van Leyden"
+503,134026,"Young Priest"
+503,138848,"Rev. Wood"
+503,152208,"Elevator Starter"
+503,154864,Businessman
+503,172961,"Peter Blomeier"
+503,185247,Billings
+503,195794,"Telegraph Employee"
+503,218330,"Defense Attorney"
+503,218704,Villager
+503,289631,Critic
+503,298050,Butler
+503,349983,Minister
+504,161189,"Tom Taylor"
+506,313939,Henchman
+507,214159,
+508,1675,Himself
+508,2042,"Himself (Canadian Comedy Hall"
+508,2627,"Himself (Host - The Royal Can"
+508,67999,
+508,94578,"Easterbrook's Patron #1"
+508,118897,"Himself (comedian)"
+508,168843,Himself
+508,171124,"Himself (Royal Canadian Air F"
+508,192282,"Buddy McDonald, co-owner of a"
+508,273794,"Chubby Man"
+508,339399,
+508,392682,
+508,403844,"Gilbert Smythe Bite-Me/Jean C"
+509,103222,Parsons
+510,56452,"Johnny Goodman"
+510,61802,Malenkov
+510,291297,
+510,372144,Warren
+510,372544,"Brian Asprin"
+510,384700,"The Sandman"
+510,388487,"The Sandman"
+510,390200,"The Sandman"
+510,390345,"The Sandman"
+510,390346,"The Sandman"
+511,10862,Rancher
+511,122793,"Det. Wolf"
+512,160636,"Lt. Harding"
+512,283871,"Saloon Owner"
+513,77144,Tom
+513,79863,Tom
+513,101060,Rip
+513,300919,"Guard #1"
+514,329560,
+514,361688,Gee-Tar
+515,337482,Cowdor
+516,141452,
+516,161501,
+516,191373,
+516,224159,
+516,281587,
+516,290967,
+516,291859,
+516,340928,
+517,269138,Boy
+518,309752,"Chief lifeguard"
+519,99205,"Various characters"
+520,33804,Youssef
+520,59491,Rachid
+520,108895,
+520,281928,"Ben Jemoul 2"
+520,290440,"Le coursier en scooter"
+520,307109,
+520,326129,Rachid
+521,171667,Ourt
+521,261794,Soldat
+522,251296,
+523,346599,Ali
+524,22637,
+524,31018,"The S.A.V. Salesman"
+524,236579,
+524,239722,"The Priest"
+525,17139,Alessandro
+525,91051,
+525,121899,
+525,162053,Pino
+525,183234,Minuicchio
+525,188601,"Saverio Esposito"
+525,235369,Pippo
+525,243045,Pietro
+525,328897,
+525,347470,Rocco
+525,410050,Stefano
+526,89907,Chester
+527,283678,"Obnoxious Sailor (English ver"
+528,5277,"Abu Beker, local leader"
+528,12102,
+528,118836,Himself
+528,162733,Amr
+529,275394,"Zarobljenik Zijo Bajric"
+529,410330,Policajac
+530,360180,"Horse Dealer"
+531,149552,
+532,25028,
+532,104022,
+532,189403,"Tanker Driver"
+532,212257,Ernesto
+533,19687,"Shushan Gorky"
+534,204035,
+535,8876,Tony
+535,34965,Conferencier
+535,76745,"Derek van Romondt"
+535,110247,"Prof. Hassan Uleidi"
+535,390242,"Eddie (1990-1992)"
+536,8876,Toni
+537,389681,Host
+538,88376,"Chef Pizzaiolo"
+538,174166,Larbi
+538,356195,
+540,356366,
+541,16954,
+541,257509,Hassan
+542,12083,
+543,22062,
+543,112946,
+543,143987,
+543,175912,
+543,220686,"Fathi, the Detective"
+543,270956,
+544,137399,
+544,301461,
+545,25690,"Butler John"
+545,76709,
+545,223559,
+545,266016,
+545,388489,Evropeyets
+545,394752,"Nalogovyj inspector"
+546,126067,Turk
+547,27520,Badry
+548,3311,"(segment "Tapin du soir")"
+548,144343,Samy
+549,338048,
+550,826,"Fuzzy Dice Vendor"
+550,58438,
+550,98717,Hussein
+550,139507,Shaheen
+550,175912,
+550,178242,"Sheikh Hosny"
+550,226734,
+550,284635,
+550,285535,"Mansor Bahgat"
+550,309700,"Ahmed Abol Mahasen"
+550,326263,
+550,329232,
+550,372391,
+550,374658,Allalah
+551,25982,
+552,19911,
+552,20201,"Guy #1 Proposing"
+552,147081,"Dr. Moheeb Elnashoukaty"
+552,155238,
+552,162235,Elyan
+552,175906,
+552,189531,
+552,216703,
+552,281075,
+552,285528,Gad
+552,300770,
+553,227898,
+554,147083,Mourad
+555,137056,
+555,270995,
+555,357100,"Le tueur"
+556,137056,
+556,285493,"Farah's Father"
+557,24680,"Dr. Maher"
+558,303354,
+558,326170,
+559,52063,"Fourth Officer"
+560,220686,Haramy
+561,15313,
+561,27753,
+561,109098,
+561,222351,
+561,275637,
+561,285493,Khaled
+562,92029,
+562,127031,Himself
+562,202801,
+562,359378,Mohammad
+562,370296,
+562,371907,
+563,9153,
+563,9887,
+563,15338,
+563,28238,
+563,239374,
+564,162733,Guindi
+564,205282,
+564,209468,"The film director"
+564,304149,"Ezz Eldine"
+565,162734,
+565,303051,
+566,207262,
+567,399813,"Himself/D.J. (199?-2001)"
+568,131548,Himself
+569,4959,
+569,5006,
+569,30603,Bassiouny
+569,97542,
+569,138966,
+569,138967,Heema
+569,187516,
+570,25493,
+570,334410,"Guy in Bar"
+571,166141,"Le père d'Ali"
+572,26085,
+572,175959,
+573,336168,Samir
+574,315893,Verfolger/Chaser
+575,84695,"Jeune beur"
+576,390523,"Michael Tranter (2003-)"
+577,368740,"Ung Woyzeck"
+578,142184,
+579,28395,
+579,140430,Father
+579,222298,Uncle
+581,25986,Tewfik
+582,211787,Uriqat
+583,118824,
+583,156487,"Le psychiatre"
+583,255567,Djaffar
+583,284218,Stepan
+583,309988,"Hamid, le frère aîné"
+583,322335,"Cast Member"
+583,355808,"Nounou, le concierge"
+583,375794,L'Excite
+584,379655,"Chérif célibataire"
+585,290189,
+586,24671,
+587,83355,"Le gamin"
+588,285500,"Tuareg #1"
+589,303119,Iván
+590,356521,Hassid
+591,284940,"Matches man"
+592,46080,
+592,140605,
+592,167268,"Omar's Elite Guard"
+593,261761,Riva
+594,59094,Samara
+595,167268,"Omar's Elite Guard"
+596,167268,"F-16 Pilot"
+597,162733,Dancer
+598,286313,"Serveur mariage"
+599,176837,"Garde du corps"
+600,48294,
+600,205051,Roberto
+600,344734,
+601,132063,
+602,169856,Barabbas
+603,169856,Phillip
+604,80663,
+605,97517,Grubber
+606,159691,
+607,79518,"Foot Soldier Uriah"
+608,220479,
+609,271421,Nadira
+610,48305,
+611,39930,"Arab Guard"
+612,146517,
+613,356367,
+614,61814,
+615,218460,Saïd
+616,377629,Salim
+617,21730,Milicien
+617,282002,"Le chauffeur du camion"
+617,333759,"Serviteur Yasmina"
+618,10270,Skog
+618,354083,"Lainajussi #4"
+619,135324,"Si Ahmed"
+620,183622,"Capt. Anton"
+621,134966,Yusuf
+622,32024,
+623,6152,
+623,8741,
+623,10503,
+623,65420,
+623,82256,
+623,92318,
+623,98438,
+623,148831,Akbar
+623,246882,
+624,272996,Girl
+625,64341,Nidam
+626,21580,
+626,88475,
+627,265049,
+628,39456,"Petty Officer"
+629,25751,Zack
+629,175357,
+629,319853,Sunny
+629,341420,
+630,299794,"Local Kid"
+631,43021,
+632,10520,"Arab to Intone Evening Prayer"
+632,69823,"Immigration officer"
+632,112508,Lackey
+632,118334,Sheik
+632,177988,"Aide to Grand Vizier"
+632,194831,Native
+632,222326,Pierre
+632,271293,Soldier
+632,302454,
+632,304587,Native
+632,327585,"Egyptian Policeman"
+632,331180,Muezzin
+632,371887,"Man in Lounge"
+633,96290,
+634,100726,"Taxi Driver"
+634,263176,"Company Man"
+634,316674,"White Bum"
+634,353611,"L.T. Romano"
+636,346185,
+637,61814,
+637,344844,
+638,355808,"Ami de M. Fares"
+639,68351,Jackson
+640,19816,
+641,300672,
+642,120025,
+643,101174,"Warden of the Cage"
+643,148670,
+644,116485,"Un ami de Si Tayeb"
+645,355808,"Le serveur du Rouge-Gorge"
+646,108985,Fara
+646,240386,
+646,336429,
+647,25708,
+647,42227,
+647,340240,Kadyrov
+647,371291,
+648,234979,Oroveso
+648,286815,"Satrapo di Gaza"
+649,229912,
+650,129952,
+650,373474,Rakhimov
+651,329198,
+652,64153,
+653,261689,
+653,376217,
+654,4244,
+654,31253,
+654,45588,
+654,85216,
+654,88485,
+654,98526,
+654,135941,
+654,328180,
+655,157600,Himself
+656,6190,
+656,198653,"Atteya Assfoor"
+656,241888,Sniffy
+657,182339,
+658,180222,Robber
+659,153617,"Man on boat"
+660,292175,"Cash and carry staff"
+661,32444,
+661,37649,
+663,16182,
+664,251801,Bicyclist
+665,2573,"Himself - performer"
+665,48040,
+665,274126,Himself
+666,97489,Officer
+667,1805,Himself
+667,9125,"Roger Murdock"
+667,22035,Himself
+667,30582,Himself
+667,34923,
+667,41893,Himself
+667,48095,Himself/Hakim
+667,48101,Himself
+667,60564,"Fighter on Film #2 (Ship's Th"
+667,75539,Himself
+667,76253,Himself
+667,109935,Himself
+667,114381,Himself
+667,115325,Himself
+667,117713,Himself
+667,123389,Hakim
+667,131720,
+667,143874,Himself
+667,165101,
+667,190016,"Hakim [from "Game of Death"]"
+667,202193,
+667,228950,Himself
+667,230690,Himself
+667,240180,Himself
+667,250564,Himself
+667,267563,
+667,273704,Himself
+667,304481,"The Archangel of Basketball"
+667,330492,"Special Guest"
+667,340320,Himself
+667,364100,Hank
+667,364101,Hank
+667,388136,Himself
+667,406363,""The Monster!" shouter"
+668,203243,"Showroom Mannequin"
+669,114381,"Bullet Haines"
+669,160375,"Basketball player"
+669,342938,"Caddy #2"
+670,185255,Kronos
+670,333007,Bartender
+671,1805,"Himself - Performer"
+671,2398,Himself/presenter
+671,220207,Himself
+672,1805,"Himself - Performer"
+672,2398,Himself/presenter
+672,102569,"Moustafa 'Moose' Hakeem Jones"
+672,218853,"Himself (segment "Badder")"
+672,220207,Himself
+672,365559,Boy
+673,1805,"Himself - Performer"
+673,2398,Himself/presenter
+673,218853,"Himself (segment "Badder")"
+673,220207,Himself
+674,1805,"Himself - Performer"
+674,2398,Himself/presenter
+674,218853,"Himself (segment "Badder")"
+674,220207,Himself
+675,231790,"Prison Guard"
+676,20042,"Himself (dancer-acrobat)"
+676,58894,
+677,226012,
+678,60448,
+679,376442,Azid
+680,197464,Akbar
+680,357348,
+681,313780,Kasser
+681,319083,"3rd Man"
+682,229004,
+683,154120,Abdul
+683,349237,
+684,113702,
+685,97793,
+686,390950,"Fatima's gang"
+687,7632,"Himself (Valet)"
+687,86628,
+687,201041,"Rajat Saxena"
+687,312532,
+687,407130,"Keshav Malhotra"
+688,155241,"Ice Cream Kid"
+689,404387,
+690,49081,Deba
+691,178685,Hussein
+692,123280,"Restaurant Manager"
+692,187472,Karaba
+692,217380,"Arab Foreman"
+692,217600,Captain
+693,390828,"Grand Prix (2001)"
+694,7630,"Witch doctor"
+695,155241,"Ice Cream Kid"
+696,139873,Nasir
+697,361665,
+698,253240,
+699,236697,"French bank guard"
+700,355052,Extra
+701,80051,Bartender
+702,136364,Nigerian
+702,398874,"Dr. Abdul Dialo (2000-2002)"
+703,167574,"Himself - Spokesman, Danish H"
+704,197464,"Abu Pirumov (2nd Pilot)"
+705,64153,
+705,262222,
+706,263673,
+706,349366,
+707,59979,
+707,228998,
+708,20895,Valli
+709,43072,
+709,85216,
+709,154836,
+709,173705,
+710,33838,
+710,298810,
+711,102461,
+712,25493,
+713,429,
+713,3034,
+713,10276,Prince
+713,16543,
+713,20104,
+713,51689,
+713,59772,"Ivan Sergeevich Puhov"
+713,63608,"Alexandra's boyfriend"
+713,63610,
+713,84260,"Anthony Marston"
+713,89801,
+713,89817,"Dr. Simpson/Gulliver"
+713,95695,
+713,107664,
+713,113207,
+713,117852,Zhakob
+713,125658,
+713,134188,
+713,162674,"de Charance"
+713,172059,"Valery Ostrovsky"
+713,174163,"Nikita, Nina's boy-friend"
+713,176136,
+713,180738,
+713,187013,Sergei
+713,219725,
+713,226427,
+713,228113,
+713,237467,"Grigori Stepanovich Smirnov"
+713,237566,
+713,237970,Bear
+713,261689,
+713,262659,
+713,265071,Kozlov
+713,265844,
+713,265845,
+713,266016,
+713,276619,
+713,280397,Himself
+713,282741,
+713,282824,
+713,286558,"Volodya Smirnov"
+713,299404,
+713,303349,
+713,309360,
+713,315934,
+713,317763,
+713,318562,
+713,323332,
+713,332994,"Anton Kashtanov"
+713,336424,Ramkopf
+713,343970,Lancelot
+713,347307,
+713,357471,
+713,370188,
+713,373484,Bandit
+713,374779,"Walter Hartwright"
+713,374788,
+713,374994,"Vladimir Zharovsky"
+713,375656,
+713,375660,
+713,378720,"Engineer Schukin"
+713,380347,
+713,386003,
+713,388489,"Blifford Linds"
+713,389747,Lyadashchev
+713,397053,Koroviev
+713,397513,"Driver of 'Black Cat'"
+713,399344,Lavr
+713,399353,Lavr
+713,409735,
+714,262161,"Gestapo Col. Kraschke"
+715,10266,Aizeks
+715,33820,
+715,45553,"(segment "Career of Lt. Gopp,"
+715,45562,"(segment "Night Over Belgrade"
+715,60446,"Tarantulov - school superinte"
+715,60844,"Arseniy Yulyevich"
+715,79620,Ushakov
+715,129924,Jigonet
+715,172439,"Governor of the town"
+715,219454,"Ivan Akimovich"
+715,244162,
+715,259066,Professor
+715,261364,Colonel
+715,262168,Passenger
+715,268140,"Jose Antonio Alvarez"
+715,293987,"Jacques Lavendel"
+715,294672,Sheriff
+715,320483,"Dymba, the Greek"
+715,320668,"Dorokhov, factory director"
+715,320688,Bartender
+715,375859,"Vesset the Elder"
+716,45129,"Volga Taxi Owner"
+717,13464,
+717,13465,
+717,43215,
+717,88850,
+717,91210,
+717,154105,
+717,174251,
+717,180103,
+717,180364,(Voice)
+717,181510,
+717,229911,
+717,230048,
+717,231173,
+717,263685,Teacher
+717,263695,
+717,341238,"Kostya, a circus actor"
+717,349077,
+717,349347,
+717,349849,Narrator
+717,356114,
+717,356823,"Henri York, a journalist"
+717,370191,
+717,374839,
+717,381021,
+717,397513,Solovyov
+717,408861,
+718,33801,
+719,64153,
+720,173705,
+720,305878,
+721,90979,
+721,129655,
+721,176140,
+721,357693,
+722,79450,"Bilal Muhammed"
+723,245912,Madcap
+724,39930,"Arab Boy"
+725,202301,
+726,316829,
+727,62622,Genie
+728,2500,
+728,18410,Sharkey
+728,131235,Hogg
+728,139757,Johnson
+728,243731,"Shorty McGee"
+729,86593,
+730,155963,
+731,263207,
+732,124845,
+732,175658,
+732,309364,
+733,34535,Beshkempir
+733,131545,Themselves
+733,201011,"The Chimp"
+734,6079,Alus
+734,106058,Thug
+735,95343,"Dead gang kid"
+735,109064,Nishi
+735,324235,"A Clown"
+736,14244,Ojii-chan
+737,287620,Georges
+738,122536,
+738,167943,
+738,181968,
+738,300480,
+738,300509,
+739,300425,"Jay Jay"
+740,13623,
+740,61054,"FBI Agent"
+740,90558,"Takeshi Ito"
+740,121932,"Mr. Murai"
+740,130484,"Mitsuo Katagiri"
+740,137342,Narimoto
+740,138063,"Alice's Mother's Companion"
+740,146891,
+740,174945,
+740,181566,Kujaku
+740,257455,"Hideyuki Ishikawa"
+740,283723,Andô
+740,324726,Hayate
+740,370436,Tsukiyomi
+740,385987,"Eitaro Kawaguchi"
+740,391455,"Mitsugu Shibayama"
+740,397186,"Shunsuke Izumida"
+740,398493,"Hayato Kitazawa"
+740,398576,"Gion Touji"
+740,405276,"Jun Ohmori"
+740,408890,"Jiro Ueda"
+740,408891,"Jiro Ueda"
+741,130527,
+741,141901,
+742,381165,"Asuka/Abare Black"
+743,320106,Kendo
+744,1300,Dancer
+745,9470,Katada
+745,144494,
+745,156234,"City Assemblyman"
+745,167955,
+745,167957,
+745,198826,Shichigoro
+745,209934,
+745,216493,"Temma Tsujikaze"
+745,216495,Goroku
+745,216501,Goroku
+745,216502,Goroku
+745,216503,Goroku
+745,233276,Uncle
+745,242123,
+745,319974,
+745,327796,
+745,370731,Sukesaburo
+746,201835,"Writer and Producer"
+747,403494,Himself
+748,79272,Dater
+749,324285,"Restaurant Owner"
+750,9295,"Yosuke Nonaka aka Muraki"
+750,16535,"Kiyoshi Kaneko"
+750,163771,"Toru Ishibashi"
+750,169185,
+750,256323,"Satoru, Brother"
+750,299323,"Akio Kondou"
+750,328016,"Kenzo Muraki"
+751,334893,"Cursed Highschooler"
+752,274358,Lao
+752,318977,Surgeon
+753,374352,Hagi
+754,123450,
+755,206755,Haruo
+756,122957,"Himself (interview segment)"
+757,319531,
+758,61054,
+758,209838,"Eiji Kure"
+758,298884,"Ikkakujuu no Ryuuji"
+758,334868,"Hiroshi Fujimoto"
+758,349220,"Mitsuru Yamaguchi"
+758,358947,"Ichiro (as young man)"
+758,394548,Nekota
+759,408351,
+759,408352,
+760,176527,
+761,170332,
+761,179377,
+761,335381,
+762,139703,Staffer
+762,196342,"FBI Agent Sato"
+762,270923,"Woo's Man #1"
+762,394677,"Peter Choy"
+763,182002,Kabagonis
+764,264434,Jaxxon
+765,373224,"Kimura tenin"
+767,8620,"Aota's dad"
+767,9548,"Teizo Yuasa"
+767,17419,Hoshino
+767,17422,
+767,17425,Kurobe
+767,17429,"Moto Kuroiwa"
+767,19702,
+767,28134,
+767,29562,
+767,61114,Yamagami
+767,106707,Ronin
+767,121214,Katsuyan
+767,122089,
+767,123272,
+767,125236,Chuichi
+767,130513,
+767,131295,"Cpl. Miyaguchi"
+767,136394,
+767,136395,"Genzo Matsuri"
+767,138486,Besho
+767,142177,
+767,144439,
+767,144506,
+767,144735,
+767,171658,
+767,172262,Dobashi
+767,177862,"Ichizo Uchiyama"
+767,177866,
+767,182061,
+767,182489,
+767,182491,
+767,202827,"Akifumi Motomura"
+767,209932,"Tatsuzo Karasawa"
+767,210202,Bunzon
+767,216386,
+767,217073,"Sakae Oya"
+767,223001,
+767,227661,Te
+767,229770,Geki
+767,232518,Oike
+767,232916,"Sgt. Watai"
+767,233098,
+767,233117,
+767,234244,Yasukawa
+767,242207,
+767,242232,"Kenji Funaki"
+767,243354,"Toraichiro Yamaga"
+767,275753,"Chief of Staff Soka"
+767,298693,"Police officer"
+767,298965,
+767,299149,
+767,299235,
+767,299559,Hiromatsu
+767,300201,
+767,323133,
+767,324943,"Yasaburo Oba"
+767,334930,Tetsudo-shokuin
+767,335505,
+767,336000,"Rear.Adm Ounishi Takijirou"
+767,343639,
+767,344955,
+767,358385,Daikichi
+767,359720,Matsu
+767,359838,"Ryuzo Goda"
+767,370706,"Leader of the Village Assembl"
+767,371800,
+767,371915,"Mitsuaki Suzumoto"
+767,374092,
+767,375580,"Kawagoe, Police"
+767,375594,Sugato
+767,405185,Hiromatsu
+767,410642,"Tseng Lung"
+768,39495,"Security Guard"
+768,45105,"Pentjak #2"
+768,45486,"Henchman #4"
+768,64863,Sensei
+768,234067,"Yakuza bodyguard"
+768,301633,"Chai Li"
+768,321702,"Yoshimos Bodyguard"
+769,153410,"Dong Dong"
+770,170982,"Japanese reporter"
+770,194025,"Hospital doctor"
+770,292670,"Imperial Japanese Voices #2"
+770,300180,"Cheetah Customer"
+771,408434,"Toshio Sugi"
+772,263443,Himself
+773,131205,"Man that was shot"
+774,179545,"Oil Minister"
+775,349425,
+776,388463,
+776,392260,
+777,346314,"Guitar Man"
+778,396299,"Shulman's Mother"
+779,199463,"Club promoter"
+779,258903,"Danny A"
+780,294733,"Arab kid"
+781,23077,Shukri
+782,360695,Himself
+783,346185,
+784,65427,Jimmy
+784,341772,"Technician #8"
+784,348526,Follower
+785,23064,
+785,78995,"Dr. Combs"
+785,381156,
+785,381720,Adalberto
+785,383688,Guillermo
+785,385370,"Fabián Sánchez Serrano"
+785,397019,
+785,397839,Rodrigo
+785,398229,
+785,398794,
+785,402077,
+785,406861,
+785,407304,
+786,346185,
+787,117571,Youssef
+787,235645,Abe
+788,206253,
+789,29607,Lateef
+789,251669,"Mehrollah's friend"
+789,337397,
+790,320109,Sam
+791,203696,"Frustrated cafe poet"
+792,239756,"Alex Thomas Phillips"
+793,239756,"Steam City Mayor"
+794,365587,
+795,282440,"Travis, the Playwright"
+796,97372,
+796,328922,Rogelio
+796,383206,
+797,228761,"Juez 2"
+798,8249,L'agriculteur
+798,11934,"Client du Dr. Guelos"
+798,19186,"Le second examinateur"
+798,19624,"Le préfet de police"
+798,30345,
+798,43758,"Commissaire Corbeau"
+798,51241,"Gourbi, le voisin"
+798,63552,"Un épargnant"
+798,64333,"Himself (2000)"
+798,68927,"Le demandeur de prêt"
+798,87500,"Le représentant"
+798,88067,"Le client de l'hôtel"
+798,99362,
+798,111127,
+798,121936,Glackspill
+798,129247,
+798,148666,Himself
+798,155138,"Un locataire"
+798,156294,"M. Roque"
+798,188671,
+798,191560,"L'infirmier barbu"
+798,198970,Maurice
+798,215021,Victor
+798,216774,"Le brûleur de pellicule"
+798,225370,"Police français"
+798,231397,"Mr. Smith"
+798,243284,
+798,246306,"Le barman auvergnat"
+798,249293,"Directeur du rallye"
+798,256998,"Le gardien d'usine"
+798,279648,
+798,279723,"Commissaire Marino"
+798,285819,Garibaldi
+798,294568,
+798,303618,
+798,320240,"Le client poisson cru"
+798,325068,
+798,336968,"Gédéon le ferrailleur"
+798,345329,"L'employé aux tables d'écoute"
+798,351821,"Le voyageur au guichet"
+798,353660,Marachielli
+798,355872,"Un conseiller"
+798,356984,
+798,376998,
+798,377885,Co-Host
+799,199463,"NY club patron"
+800,162567,"Dr. Rogers"
+800,233787,Himself
+800,267932,"Mr. Lucky"
+801,1372,"Count Berchtold"
+801,20075,"Alphonse Gunderman"
+801,20158,
+801,20425,
+801,24654,Himself
+801,29355,
+801,37507,
+801,40357,
+801,46612,"Ludwig von Lellewel"
+801,46622,"Der Mann"
+801,48677,
+801,52002,"Prince de Rohan"
+801,67222,
+801,77402,
+801,86290,
+801,86296,
+801,89706,"Count Eberhard"
+801,92541,"Graf Told"
+801,93865,
+801,94489,Sillon
+801,94625,
+801,98046,Rechtsanwalt
+801,98572,Guide
+801,102599,
+801,103143,"Buchhalter Spork"
+801,107639,
+801,107963,
+801,111764,
+801,113452,"Philipp Collins"
+801,114965,Gaston
+801,119150,Fennhofer
+801,119151,
+801,119184,
+801,119195,Daffinger
+801,124129,
+801,125112,
+801,126338,Johann
+801,126341,
+801,126474,
+801,126869,
+801,127580,
+801,133320,
+801,134830,
+801,144000,
+801,144009,
+801,144191,
+801,144324,"Johann Strauss Jr."
+801,147268,"Knips the Poet"
+801,156703,
+801,161569,
+801,162453,
+801,164827,
+801,164906,
+801,168740,"Jack Matting"
+801,170639,
+801,173049,
+801,173150,"Wagemann, headmaster"
+801,174533,"Gemeindeleiter Seifert"
+801,178622,
+801,179297,"The Mayor"
+801,180004,"King of Saxony"
+801,183245,"Schriftsteller Alfred"
+801,183258,
+801,185794,
+801,185795,
+801,185796,Paul
+801,189645,
+801,193498,
+801,195059,
+801,196713,
+801,204500,
+801,204635,Jan
+801,205594,"Dr. Winter"
+801,206824,"Sir John Menier"
+801,209986,
+801,210073,"Mr. Knast"
+801,211076,
+801,211111,"Helmuth Köhler"
+801,211128,
+801,212097,"Johhan (Joh) Fredersen"
+801,214175,
+801,214195,
+801,218994,
+801,226250,
+801,226281,
+801,227741,
+801,242855,
+801,253906,
+801,254430,"Lorenz Lubota"
+801,264346,
+801,264348,
+801,266357,
+801,272537,"Generaladjutant Sablin"
+801,272823,
+801,282180,
+801,283057,
+801,286211,"Iwan Keller"
+801,288007,
+801,289952,
+801,290020,
+801,290444,
+801,290617,
+801,290764,"Graf d'Eguzon"
+801,293237,
+801,293445,
+801,293874,Bruneaux
+801,301030,"Astor Terbanks"
+801,301050,
+801,303719,"Patrick, Butler"
+801,306929,
+801,311077,
+801,311079,
+801,311092,
+801,311096,
+801,311240,"Mr. Palmer"
+801,316810,
+801,322939,
+801,324693,
+801,324694,
+801,326032,
+801,337554,Radcliffe
+801,337558,
+801,345901,"William Liners"
+801,347761,
+801,351605,"Anselmus Aselmeyer"
+801,354369,
+801,360957,
+801,361095,Gorre
+801,361383,
+801,361453,
+801,361482,
+801,376483,
+801,376765,
+802,107022,
+802,392747,Tranquilino
+802,395044,
+803,27171,"Haitian Gang"
+804,282058,Raoul
+804,358655,
+805,174179,"Man at amusement park #1"
+805,365966,
+806,175782,"Papa Kiir"
+806,209857,
+806,234863,"Noor pensionär"
+806,301428,
+806,320397,"Papa Kiir"
+806,354288,"Assistant Foreman Tasku"
+806,374716,
+807,258331,"Acteur (IV)"
+808,241444,
+808,331762,"Chorus Boy"
+809,57389,"Seraph Dancer"
+809,196328,"Construction Man #1"
+810,126447,"Gerhard Schmidt"
+810,142039,
+811,19346,"Le commissaire"
+811,68347,
+811,80335,"Chef de station de metro"
+811,91977,"Policier municipal 1"
+811,100242,
+811,106205,"Metro Beggar"
+811,182949,J.P.
+811,208830,Catso
+811,237315,"Le contrôleur"
+811,238470,"Le buraliste"
+811,240429,Ivan
+811,276305,
+811,319822,Gardien
+811,353845,"Policier III"
+811,356369,
+811,398075,"Jean-Gabriel Peltier"
+812,162426,"Capt. Van Brunt"
+813,162364,"Representative Graceson"
+814,20260,"Mike the Bartender"
+814,126277,"Gen. West"
+815,189325,Lenny
+817,108536,Himself
+818,80848,
+819,220775,"Jazz Musician"
+820,233004,
+821,233004,
+822,12511,Pilot
+822,126546,Himself
+822,147221,Bjørn
+823,223486,
+824,315662,Interviewee
+825,157894,Roy/Director
+826,157894,Roy
+827,41123,"Court Stenographer"
+828,302748,Bartender
+829,368130,"Gert's voice"
+830,113282,"USS Nimitz crew"
+831,1048,"Charles Gibson"
+831,7498,"Richard Aiken"
+831,14163,"Howard Clinton"
+831,14239,Judge
+831,20206,"Mr. Phillips"
+831,34403,"Mr. Beaumont"
+831,35725,Thornton
+831,69353,"The Thief"
+831,77685,Judge
+831,93101,"George Allerton"
+831,94881,Director
+831,107013,"Milo Terkel"
+831,113907,"Chris McClelland"
+831,114200,"Gregory Stone"
+831,116523,Himself
+831,122052,"Dist. Atty. Adams"
+831,129231,"A. J. Colder"
+831,132456,"Homer Morrison"
+831,134070,"Dr. John Stafford"
+831,137393,"Milo Terkle, in 'Fabulous Joe"
+831,138206,"Prof. Bowdin"
+831,146840,Narrator
+831,147391,"Insp. Hammock"
+831,147543,"Danny Reed"
+831,159078,"Capt. Trask"
+831,162837,"Col. Fuller"
+831,176321,"Gabby Sloan"
+831,177508,"Robert Barnes"
+831,178017,"Harry Archer"
+831,183609,"Stanley Ashton"
+831,185763,
+831,186355,Rogers
+831,190788,Carpenter
+831,203684,"Col. A.B. Morgan"
+831,210871,"Nick Ranson"
+831,212752,"Elliott Thomas"
+831,214977,
+831,215041,"Charles Stewart Calvin"
+831,221124,"George Trellis"
+831,229498,
+831,232168,"Maj. Foster, MD"
+831,235171,Tom
+831,245031,
+831,260951,"Dan Foster"
+831,270497,"Hugh Allison"
+831,271297,"T.D. Shawnessy"
+831,292260,"Kenneth Carpenter"
+831,301676,"Mayor Adams"
+831,302471,
+831,304367,"George Gore"
+831,306466,Chaplain
+831,306490,"Col. Moore"
+831,313377,"B.G. DeSoto"
+831,314246,"Warden Keller"
+831,329450,"Maj. Horvath"
+831,331520,D'Artagnan
+831,342933,"Ford 'Jitney' Adams, aka Davi"
+831,350645,Himself
+831,358439,"Cmdr. Roberts"
+831,360477,"Philip Talbot"
+831,364204,"Dr. George Benedict"
+831,366612,"Karl Stevens"
+831,366982,"James 'Jim' Trent"
+831,406788,
+831,407103,"Himself/Host (1959)"
+832,347039,
+833,389971,"The Vicious Boys (1986)"
+834,339048,"Man at Museum Post Card Rack"
+835,149619,
+835,353187,
+836,255559,
+837,166129,"Policier Gare"
+838,339048,"Museum Guard"
+839,256962,"Bobbys onkel (Bobby's uncle)"
+840,103774,"Junjun Estrera"
+840,136907,
+840,145119,
+840,381852,"Jun Jun"
+840,387832,"Junjun Estrera"
+841,198567,"Yvan's father"
+842,11024,José
+842,33804,Simonnet
+842,35502,Perez
+842,36669,Philippe
+842,52737,Benoît
+842,56048,"Le journaliste du "Courrier W"
+842,58232,"M. Bichavent"
+842,82508,Thierry
+842,86244,"Charlie Abitbol"
+842,91451,Antoine
+842,91929,"Système D"
+842,91977,"Le Vendeur"
+842,100238,Batman
+842,111039,Yves
+842,123686,Julien
+842,132887,"Simon Laufer"
+842,138996,Marcel
+842,154241,Fred
+842,166125,Daniel
+842,198567,Georges
+842,200928,Martin
+842,201143,"Thomas Filbee"
+842,211658,Christophe
+842,225497,
+842,225526,Olivier
+842,228317,Roland
+842,235811,Valentin
+842,248717,"Mathias, dit Schizo"
+842,281249,"Malade 2"
+842,291070,Max
+842,310456,"Le chef de la sécurité"
+842,324501,"Jérôme Richon"
+842,336985,Oscar
+842,337024,"Lui à 40 ans"
+842,337431,Serge
+842,337742,Shlomo
+842,345461,"Collègue Michel"
+842,357093,"Le voyageur illuminé"
+842,390477,"Pierre-Yves Corto"
+843,73835,Bum
+844,243603,
+845,216804,"Ted Burroughs"
+845,257744,Doctor
+845,323565,"DEQ Official"
+845,362716,"Match Emcee"
+845,366131,Blaisdell
+846,91136,"Ben's Father"
+847,84925,"Jim Aldridge"
+848,20463,
+848,67952,
+848,221715,
+848,356665,
+849,324178,
+850,356684,
+851,383866,
+851,387424,
+851,388728,
+852,7832,"Ted Ewing"
+852,46666,"Robert Brewster/Monty Brewste"
+852,150972,"Simon Rosedale"
+852,193745,Ducroy
+852,201859,"Bobby Burnit"
+852,214128,"Le Baron"
+852,242926,"Johnson Bowler"
+852,273232,"Steve Baird"
+853,309807,Scott
+854,57870,"Alejandro Makantasis"
+854,233805,"Diego Sepulveda"
+854,341661,Asesino
+854,351480,"Nicolás Aguilera"
+854,383138,
+855,72874,
+855,101060,Dickson
+855,114193,George
+855,137845,Manny
+855,196711,Jaytee
+855,209219,D.J.
+855,313046,Guard
+855,396128,"Jaytee Drumm (1974-1975)"
+856,390807,Host
+857,286592,Zito
+858,1500,"Eddie Jones (Hotel Waiter)"
+858,2720,Bob
+858,19980,"Train Conductor"
+858,64106,"Drunk Prince"
+858,74423,"Dr. Wilkinson"
+858,74424,"John Montana"
+858,82016,
+858,92855,"Trunks Briefs"
+858,117241,"Airman #1"
+858,119436,"Officer Goodman"
+858,150189,Karl
+858,176540,
+858,223886,Buddy
+858,263230,"Agent Shepard"
+858,277474,"Victor Kanachowski"
+858,287769,Lousy
+858,293232,Scott
+858,305949,Sammy
+858,312539,
+858,317746,"Lt. Charles Brill"
+858,341849,Stopnow
+858,360176,Jimmy
+858,386922,"Trunks/Baby Trunks/Sharpner/A"
+858,392244,"Male Paramedic"
+858,392964,Hakkaku
+858,397054,Roddy
+858,399196,Stanley
+858,402863,"Sotatsu (season 6)"
+859,95256,"Cpl Gill"
+860,108512,
+861,70776,L.D.
+862,5972,"Rob Carter"
+862,23447,Mark
+862,30553,"Sgt. Gammon"
+862,75547,Jack
+862,83663,"Bobby 'Jet' Burkett"
+862,99423,Doug
+862,103449,"Jim Corrigan"
+862,121367,"James O'Keefe"
+862,124184,
+862,153483,McQueen
+862,156473,Jeff
+862,160659,"Jim Beckett"
+862,222781,"Jeb McNell"
+862,232206,"Scott Travers"
+862,245684,Mark
+862,261026,"Nail Man"
+862,272405,"Capt. Connellly"
+862,307370,"Benny Ray Riddle"
+862,310596,Jess
+862,314255,Cord
+862,315544,Randal
+862,316445,Dino
+862,317894,Devlin
+862,355809,Merle
+862,360480,"Army Intelligence officer"
+862,405828,"Benny Ray Riddle"
+863,154399,Himself
+864,382516,"Dave Hoosan"
+864,390778,"Spencer Huang"
+864,391532,"Kyet Nguyen"
+864,392000,Josh
+864,395342,Campbell
+865,400667,"Pablo 'Pablito' Franco (1995-"
+866,188929,Raul
+867,30321,
+869,175192,Tony
+869,189914,"Arresting Officer"
+869,230878,"Babylon Scholar"
+869,239005,"Sheriff #1"
+869,254626,Tito
+869,287727,Teacher
+869,289238,"Mexican Man: US"
+869,320156,"Interviewee #2"
+869,392219,"Spanish FBI Agent"
+869,400548,"Dr. Garcia"
+869,401718,"Esteban Montoya"
+870,171325,"Le médecin"
+871,15431,Morgan
+871,26048,
+871,38716,
+871,41082,Gerard
+871,49115,
+871,76580,
+871,137594,
+871,172457,
+871,208539,
+871,217371,
+871,247262,
+871,247361,
+871,256717,
+871,302899,
+871,303576,
+871,341657,
+871,349133,
+871,355032,
+871,369334,
+871,376140,Morgan
+872,254066,"Chef boulanger"
+873,204209,"Prison Voice"
+874,205727,"Le Pécheur"
+875,121014,Journalist
+875,154504,Vicar
+875,165612,Vicar
+875,174201,"Alander, actor"
+875,312231,Ahlman
+876,280013,Fraser
+877,280013,"Bait Show Owner"
+877,381941,"Kimo Kalahani"
+878,227833,Himself
+879,13586,"Manuel Amado"
+880,364794,John
+881,385069,"Antonio Andrade"
+881,387275,"Armando Mendoza Sáenz"
+881,398478,"Camilo Linares"
+881,401258,"Diego Tamayo"
+881,410290,"Dr. Dimas Pantoja"
+881,411714,"Armando Mendoza Sáenz"
+881,412123,"Luis Eduardo Contreras"
+882,344621,"The bar owner"
+883,6313,Secrétaire
+883,23873,Landlord
+884,202841,
+884,382565,Director
+884,410257,
+885,408383,"Host (1984-1987)"
+886,77629,"Vern Cheechoo Band"
+887,293078,"4th Detective"
+887,389923,"Thomas Pickering"
+887,404002,"Art Thompson (1976)"
+887,410977,"Michael Hathaway (1969-1973) "
+888,366517,Kreuztraeger
+889,61261,"Mr. Marvelli"
+890,357217,
+891,227229,Barkhudar
+892,289982,Himself
+893,100505,"Le gangster latino"
+893,110155,Wong
+893,123983,Saïd
+893,133057,"Le journaliste incarcéré"
+893,198574,
+894,41379,"Long George"
+895,49553,Zigarettenmann
+895,172856,
+896,11768,
+896,119710,Zimmerkellner
+896,155332,
+896,197115,
+897,119562,Himself
+899,105398,
+900,185964,"Church Elder"
+901,238465,Michaut
+902,44506,"'Colorado' Dare Rudd, as a ch"
+904,37788,"Hospital patient"
+904,163213,"Mall person"
+904,245436,"Young Stud"
+904,302458,"Guard 1"
+904,353611,Marcel
+904,391555,Surfer
+905,627,"Lee Lester"
+905,64724,"Sen. McClellan"
+905,72916,"Richard Raymond (segment "The"
+905,94692,"Mr. Pratt (segment "The Facts"
+905,151183,"Big Spin Host"
+905,301540,"Agent Terry"
+905,397936,"Chuck Aber/Mr. Charles R. Abe"
+906,322814,
+907,30196,
+907,45356,
+907,240181,
+907,299389,
+907,311627,
+907,327783,
+907,333725,
+908,59055,"Bobby Regent"
+908,87153,Referee
+908,120009,"Third Goof"
+908,137548,Eric
+908,219786,Nelson
+908,252299,"Rodney Bitts"
+908,315869,Newsboy
+909,305710,"Mr. Carter"
+910,146567,Co-pilot
+911,189026,Contrabandista
+911,387565,Host
+911,391449,Contertulio
+911,392815,"Newsreader (1996)"
+911,407563,"Host (1989)"
+911,407719,"Host (1991-1992)"
+911,407735,"Newsreader (1988)"
+912,353957,"Samir enfant"
+913,46283,Neighbor
+913,222973,
+914,132823,Himself
+915,26973,"Lenny/'Charlie Friendly'"
+915,240785,"Bartender #2"
+915,299712,"Virgil Moss"
+916,6248,Driver
+916,20528,"Wiseman (Wiseman John in the "
+916,22963,Maitre'D
+916,30741,Deserter
+916,38165,"Dr. Dorn"
+916,40327,Zeus
+916,41155,"Man in Mayor's Office"
+916,56800,"Brother Orsini"
+916,63192,"Sir George"
+916,65464,Leader
+916,67575,"Sidney (Party Guest)"
+916,77835,"Royal Cobbler"
+916,78843,Captain
+916,98804,Whiting
+916,100937,"The Narrator"
+916,105321,Bernardo
+916,107145,
+916,108817,Bartender
+916,113996,Boggs
+916,114262,Father
+916,115068,Skip
+916,115432,"Dr. Osborne"
+916,120385,"Dr. Fritsky"
+916,120633,Parks
+916,126659,"Mr. Kenwood"
+916,134321,Stanley
+916,144888,Major-domo
+916,149938,"Scotland Yard Supervisor"
+916,150747,"Train Conductor"
+916,155263,Hymie
+916,162817,"Train Conductor"
+916,164433,Psychiatrist
+916,165261,"Alexander Mayhew"
+916,168718,Merlin
+916,169500,
+916,175099,Rudy
+916,176283,Barnes
+916,182973,Auctioneer
+916,185567,"maitre d'"
+916,192067,"Dr. Noyes"
+916,205658,"Lord Bates"
+916,205830,"Evrin Sezgin"
+916,209776,"Julius C. Saurian"
+916,217434,"Stock Actor"
+916,220427,Auctioneer
+916,236163,"Horvath, Loproc"
+916,247363,"Cabbage Vendor"
+916,264486,Johann
+916,266708,"Mr. Brown"
+916,267349,"Dr. Hess"
+916,269713,Charlie
+916,272759,"Dr. Remsen"
+916,275996,"Iced Tea Waiter"
+916,280719,
+916,284583,"Deck steward"
+916,287016,"Crazed shopper"
+916,290936,Brainiac
+916,296206,"Rex Ambrose"
+916,307456,"British co-pilot"
+916,313514,"Cockney Singer in Brixton Mus"
+916,328809,"Prof. Dorn"
+916,330218,"Male Dancer #74"
+916,356761,"English POW"
+916,359422,"Magistrate #1"
+916,364777,"Eddie, Room Service Waiter"
+916,365498,"British dignitary"
+916,367491,"English News Reporter"
+916,372551,"Second villager"
+916,373874,"Louis Medina"
+916,381110,"British Valet"
+916,382102,"Alfred Pennyworth"
+916,384181,"Sir G."
+916,384181,"Sir George"
+916,388202,"Royal Cobbler"
+916,389858,"Clive Durban (1993)"
+916,404282,"Phillip, the Capwell butler ("
+916,410582,"Vice-Adm. Rodney"
+917,119565,"Bullies, College Guys, Gang M"
+918,139175,"Tough Guy Two"
+918,321731,Fighter
+919,54617,"Flying instructor"
+920,360267,
+921,72504,"Congressional Aide"
+921,198882,"Young Siward"
+921,288689,Michael
+921,372130,"Piggy Logan"
+921,396088,"Greg Keyes (1978-1980)"
+922,16796,Himself
+922,305492,"Ray Foley"
+922,365311,Mitch
+922,403278,"Johnno Ryan"
+923,154907,Inger
+924,240428,
+925,141772,"Himself (Social Credit Premie"
+926,165122,
+926,290184,Albert
+926,365012,"Lord Perkinson"
+926,365596,
+927,325435,
+928,105110,
+929,80645,Harry
+930,45548,"Young Boy"
+931,123420,"Jimmy Ross"
+932,13993,Paramedic
+933,127297,Himself
+933,333856,"Lewis Bodine"
+934,345824,"George Shelby Jr"
+935,923,Himself
+935,2445,"Himself (with Martin Luther K"
+935,126056,"Himself (behind King)"
+935,154041,Himself
+935,157942,Himself
+935,202195,"Himself (behind King and Malc"
+935,244824,"Himself - consoles Coretta Ki"
+935,310707,"Himself (leads march into Mon"
+935,310711,"Himself (marches with King)"
+936,312347,Bouncer
+937,203264,Kurt
+938,52432,Dancer
+939,303501,Louis
+940,403150,Host
+941,160375,"Golden State Warriors"
+942,14212,"Reporter #2"
+944,230324,"Band Member (Ozomatli)"
+945,95848,
+946,7030,
+946,40343,"Marty Dunn"
+946,42992,"Sonny Halitosis"
+946,192783,
+946,308117,"Chief Vinton"
+947,286558,
+948,173967,Besarioni
+948,209091,Zosime
+948,214879,Priest
+949,60476,
+949,344269,Datvia
+949,349265,
+950,85274,
+951,108087,Musician
+952,113116,"Les voix de Georgie"
+953,88382,Kinga
+954,243389,Caronte
+954,279706,
+954,324202,"Leone, Vertrauter Andronicos"
+955,326383,"Second Carabiniere"
+956,179776,"Insp. Khamar"
+957,85840,"Ishan Patel"
+958,292266,"Chicano Youth"
+959,16050,"Mexican Band Member"
+960,44201,
+961,9439,
+961,13319,
+961,23089,
+961,27405,
+961,28750,
+961,58989,Father
+961,76801,
+961,79140,
+961,193476,
+961,203832,
+961,267171,
+961,267403,
+961,285203,
+961,309344,
+961,354630,
+962,211847,
+963,205778,Pompier
+963,217746,"Le paysan du trou"
+963,339226,"Le père de Léa"
+963,341701,Robin
+963,361710,Farmer
+963,396042,Garmod
+964,45890,
+965,29064,
+965,88212,
+965,131935,
+965,165143,
+965,220826,
+965,270556,
+965,272056,
+965,312483,
+966,9502,"Arjun Srivastava"
+966,36303,
+966,320182,
+967,36303,
+968,167980,
+968,328141,
+969,331427,"Oasis Bunker Iraqi Republican"
+970,222358,
+971,16598,"Djamila Kasmi"
+972,160288,
+973,13475,Mansur
+974,106270,
+975,222375,"Conde Gregori"
+976,86669,
+977,113393,"Hotel Man"
+977,137815,
+978,272996,Soldier
+979,146472,
+979,153334,
+980,16704,"David Randolph"
+980,77910,
+980,113393,David
+980,175457,
+980,234501,
+980,278609,
+980,292077,
+980,295111,
+980,318955,"Sunan Bonang"
+980,318956,"Sunan Bonang"
+980,348875,"Ipah's Father"
+980,404054,
+981,25986,Boualem
+982,352782,
+983,82704,
+984,166875,Abihai
+985,380663,Himself
+986,99512,Flyttemand
+986,99592,Røver
+986,172416,"Kajs ven"
+986,237102,"Himself/Various roles"
+986,305861,
+987,394729,
+988,40505,"Video shop customer"
+989,29905,"Lenas far Karsten"
+989,143219,Kunde
+989,382884,"Christen Christensen"
+989,390857,Jokum
+989,391710,Ulrik
+989,401573,"Katia & Mikkels Far"
+990,155963,
+991,34535,
+992,244038,
+992,394750,
+993,47084,Bruce
+993,160958,Wilson
+993,346937,Himself/Narrator
+993,346938,Narrator
+993,346944,Himself/Narrator
+993,382216,"Father Neil Boyd"
+993,394488,Lacey
+993,403278,"Jake Sanders"
+994,19798,Fernand
+994,23476,"German gunnery sergeant"
+994,44441,Archie
+994,50058,"Farmer Fowler"
+994,80510,Arthur
+994,81289,"Dr. Karl Leitzig"
+994,85871,"Airline Representative"
+994,89709,"Chemist Assistant"
+994,114206,"Herman Fox"
+994,121742,Rukel
+994,127928,"Dr. Jodel"
+994,129117,"Lord Chancellor"
+994,130130,"Hamilton Banker"
+994,131593,"Insp. Buff"
+994,142919,"Bishop of Ely"
+994,165222,Richards
+994,183235,"Uncle Harold"
+994,189404,"Dorset Longhurst"
+994,200926,Renault
+994,208915,"Hauptman Kranz"
+994,232872,"Man in white coat"
+994,242721,"A German"
+994,242726,
+994,260329,"Church official"
+994,279737,"Herne the Hunter"
+994,306989,
+994,330600,"Col. Chalmers"
+994,337078,"Thomas Astwood"
+994,366047,Jack
+994,380647,"Father Gruber"
+994,382701,"DS Hallam (Season 2)"
+994,385343,Frankie
+994,387533,"Jessi Gillin"
+994,388861,
+994,391169,Chingachgook
+994,393938,"Chief Clerk"
+994,394143,
+994,395177,Chingachgook
+994,395353,
+994,396402,"Olav Tunheim"
+994,398183,"Sir George Mortenhurze"
+994,401224,"Police Kommandant"
+994,403523,"Herne the Hunter"
+994,407085,"Hubert Marks (1976-1977)"
+994,411291,Smith
+995,46857,"Sgt. Treadwell"
+995,118648,"Peter Sedgley"
+995,260842,Hayward
+995,322601,"Papa Pepe Pepperoni"
+995,361361,Narrator
+995,388861,"Dick Wright"
+995,393890,"DS Dick Maltby (1984-1985)"
+995,399590,"Graham Sowerby"
+995,400110,"Kindly Policeman"
+995,402603,"Big Bill"
+995,411280,"Abwehr Secret Policeman"
+996,289090,"Doyle Brimm"
+997,139656,
+998,110435,"Gen. Zariskene"
+998,178105,"Count Peter Turgeneff"
+998,204659,"Baron de Bretigny"
+998,247880,"Sir Henry Mordaunt"
+999,44185,"Big Lou"
+1000,232262,
+1001,258269,"Dr. Matu"
+1002,208084,"Simon Peter"
+1003,160819,Enfant
+1004,266237,"La flic au commissariat"
+1005,64949,"Le producteur des "400 couill"
+1006,35351,Milo
+1006,69380,Mathieu
+1006,100505,Jean-Denis
+1006,203972,Thomas
+1006,222454,Raphaël
+1006,231286,Bernard
+1006,253246,"Mathieu Pittas"
+1006,279249,"Flic 1"
+1006,295119,Abitha
+1006,327566,"Armed man"
+1006,340152,"Le père de la petite fille"
+1007,80352,Angel
+1007,226487,
+1007,383442,"Eduardo Medina"
+1008,3388,
+1008,6625,
+1008,106323,
+1008,137613,
+1008,148085,
+1008,236472,
+1009,37164,"Farmer's son"
+1010,199307,
+1011,376717,
+1012,376717,
+1013,2252,"(segment "Poisson Rouge")"
+1013,15321,Camille
+1013,19639,Aram
+1013,19687,"Arshile Gorky"
+1013,23680,
+1013,57533,
+1013,58409,Carlos
+1013,78386,
+1013,164197,Simon
+1013,190745,Simon
+1013,198303,"Le swami"
+1013,231286,Lecarpe
+1013,234303,
+1013,236592,
+1013,254123,Dan
+1013,258982,"Un client"
+1013,278155,"Danseur grec"
+1013,301522,"Le second consommateur"
+1013,327654,
+1013,340950,"Lt. Dessalines"
+1013,345378,Albert
+1013,346459,
+1013,349713,
+1013,371303,He
+1014,136386,
+1015,314853,Banker
+1016,190273,"Party Boy"
+1017,31861,
+1018,99192,"Hunter 2"
+1019,29287,"Rudolf - the Bettor"
+1019,53312,Chaplain
+1019,84833,"M.C. Announcer"
+1019,223803,
+1019,276645,Engineer
+1019,295952,"First Reporter"
+1019,297005,"T.V. Technician"
+1020,140953,Charlie
+1021,260950,"Zoli Model"
+1022,232250,Clyde
+1022,406971,"Blooper The Clown"
+1023,45573,Owen
+1023,68275,
+1023,136515,Noel
+1023,147089,"Additional Voices"
+1023,230815,Girard
+1023,232374,Justin
+1023,236657,Tobias
+1023,259147,"Head Waiter"
+1023,393221,"Valmont (2001-)"
+1024,274458,"Rachel's Trick"
+1025,385020,"William 'Billy' Mallet (1998-"
+1026,230445,Michael
+1026,303868,Michael
+1027,31785,Mike
+1027,232830,"12 Step Member"
+1028,25690,"1st Officer"
+1028,373699,Groom
+1029,21756,"Brigadier Chef"
+1030,60395,
+1031,127451,
+1032,122214,"Fire Breather"
+1033,148416,"Street Tough"
+1033,259216,Tommy
+1033,365443,Rasheed
+1034,40038,"Pvt. B"
+1035,64117,Musician
+1035,253847,"Piano Player"
+1036,168238,"Cafeteria Kid"
+1037,384109,"Martin Frazer"
+1038,313938,Leonard
+1039,64896,Detective
+1039,69286,"First Officer"
+1039,75556,"Hugo the Houseman"
+1039,115487,"Flight Lt. Bob Elliott"
+1039,146870,Voss
+1039,149739,"Patrol Constable #1"
+1039,187157,Butler
+1039,198885,"Old Siward"
+1039,230410,"1st Policeman"
+1039,232318,"2nd German sentry"
+1039,235156,Gail
+1039,237786,"Ian Murray"
+1039,237787,"Ian Murray"
+1039,240861,"Jock McKay"
+1039,328647,"Capt. MacNair"
+1039,342513,
+1039,343194,"Visiting Room Warder"
+1039,360453,Shaw
+1039,385299,"Mr. Braun"
+1039,387334,
+1039,400843,"Dr. Hockridge"
+1039,405525,"Sir Frances Bryan"
+1039,408813,"Capt. Doakes"
+1040,25482,Karim
+1041,363818,
+1042,88376,"Jeune Black Champs-Elysées"
+1043,353845,
+1044,66371,
+1045,136576,"Lábodi Béla"
+1045,253782,
+1045,322060,Alexits
+1045,352776,Konferanszié
+1046,97455,Barthélemy
+1046,288943,"Male Rebel"
+1047,6347,Pedro
+1048,344753,Himself
+1049,82529,
+1050,99745,Mostafa
+1050,125713,"Khaled (The Hero Kid)"
+1050,147081,"Kimo (Karim El Sharkawy)"
+1050,186489,Baby
+1050,187516,"Khaled Abol Naga"
+1050,220686,Selim
+1050,275637,Ashraf
+1050,285493,Ali
+1050,371899,"Hasan Hosny"
+1050,381210,"Seif El Daly"
+1052,394785,"François d'Alençon"
+1053,219641,Foma
+1054,10070,"Albert Einstein"
+1055,101816,Andrés
+1055,198215,Botones
+1055,389679,Afonso
+1056,110570,
+1056,155616,
+1056,182646,"Dr.Benczés Sándor"
+1056,209807,
+1056,284092,"II. Rákóczi Ferenc"
+1056,322133,"Prof. Sármány"
+1057,18207,"The Writer"
+1058,317,"Kalala Wa Kalala"
+1058,7623,"Guest artist"
+1058,20544,Barnabé
+1058,25785,"African réception"
+1058,28153,
+1058,56048,"Un policier"
+1058,57078,
+1058,65130,
+1058,68412,"Le réalisateur"
+1058,134295,
+1058,158189,Bruce
+1058,168799,Arsène
+1058,198534,
+1058,199564,"Circus Barker"
+1058,215983,
+1058,219458,Baptiste
+1058,222139,
+1058,232134,"Passenger #2"
+1058,241174,Omar
+1058,281249,"Mari 2"
+1058,309691,
+1058,336961,Théo
+1058,382761,"Le substitut du procureur"
+1059,58305,"Homme bus"
+1059,101247,Gilbert
+1059,261735,"Guichetier SNCF"
+1059,278024,"Le Curé"
+1059,328087,
+1059,335253,"Le policier salle de contrôle"
+1060,286116,"Guard One"
+1061,183993,
+1062,19910,
+1062,22206,"Yasmina's father"
+1062,24680,"Dr. Essam"
+1062,97542,
+1062,155238,
+1062,400127,
+1063,198816,
+1064,10453,L'imprimeur
+1064,270539,"Le pecheur"
+1064,361592,"Bakery Militiaman"
+1065,375074,
+1066,10453,"Serveur restaurant"
+1067,288969,Cha-Lay
+1068,305575,Welder
+1069,201488,
+1069,326559,Himself
+1070,187577,
+1071,69462,"Slain Boy"
+1072,185127,Inmate
+1073,318642,"Olson's Translator"
+1074,291049,Victim
+1075,130,Hamou
+1076,6090,
+1076,251296,Enfant
+1077,381755,Himself/Panelist
+1077,392424,Himself
+1078,259024,Frédéric
+1079,28310,
+1079,356783,
+1079,356787,Himself
+1080,328273,
+1081,42561,
+1081,122871,"Un élève du cours"
+1081,241878,"Un militaire"
+1081,256413,"Un pion"
+1082,33076,Fausan
+1083,749,Samy
+1084,29619,Patron
+1084,44270,Dawes
+1084,130168,"The Monster"
+1084,184767,Rick
+1084,198925,Terrorist
+1084,268542,"The Flayer"
+1085,222298,Uncle
+1086,6754,"Le serveur arabe"
+1086,54261,
+1086,251007,
+1087,269356,"Captain of the Guard"
+1087,283186,Jimi
+1087,411316,"African guide"
+1088,27270,
+1088,38271,Jean
+1088,248717,Oulage
+1088,335081,
+1088,353330,
+1088,370013,Marco
+1089,27210,Policeman
+1089,105405,"Connecticut Cop"
+1089,136126,Pagan
+1089,169478,Observer
+1089,240682,Passerby
+1089,262203,Soldier
+1089,333047,"Psychology Student"
+1090,60072,Seb
+1091,239958,Journaliste
+1092,350588,
+1093,169777,
+1094,6313,"Employé Quearenga"
+1095,36566,
+1095,42879,
+1095,48260,
+1095,64006,Beuler
+1095,109104,"De Riedmatten"
+1095,129528,Sainof
+1095,133183,"L'officier de police"
+1095,240299,"Le photographe"
+1095,344631,"Prostitute's Client"
+1095,346650,"Roman Skarbek"
+1095,377999,
+1095,384186,"Le vétérinaire"
+1095,389145,Brook
+1095,401478,"Wiring - West Coast Customs"
+1096,339030,Pablo
+1097,276085,"King Neptune"
+1098,383464,Dito
+1099,281196,"Park Bench Kid"
+1100,20625,Extra
+1100,152208,"Arabian Rug Peddler"
+1101,346185,
+1102,69396,
+1102,215295,Gabe
+1103,232104,"Garage Mechanic (30th Anniver"
+1104,170827,"Prime Minister"
+1104,232824,"Det. Munda"
+1104,297747,
+1105,283497,Dean
+1105,311614,"Joe Nussbaum"
+1106,133354,Steven
+1106,209693,Mac
+1107,351,Pantaley
+1107,2809,"Himself - Best Actor Winner"
+1107,2815,"Himself - Presenter: Best Act"
+1107,7477,"Lucien Haslans"
+1107,11354,"Prof. Covington"
+1107,11525,"Sgt. Paul Leeper, Arresting O"
+1107,12937,"Antonio Salieri"
+1107,26345,"Al Capone"
+1107,30847,Osrain
+1107,35802,"Dr. Harry Bertram, the Whale "
+1107,37062,Eppis
+1107,43606,"D.A. Abe Weiss"
+1107,46837,
+1107,50936,"Max Suba"
+1107,51814,"Capt. Garcia"
+1107,57312,"Delfinello da Coverzano"
+1107,61802,"Josef 'Uncle Joe' Stalin"
+1107,67385,"Jim Sullivan"
+1107,79041,Rubin
+1107,80491,Whitelaw
+1107,86751,"Al Capone"
+1107,90781,
+1107,98353,Narrator
+1107,102197,
+1107,103005,"President Mendoza"
+1107,104042,Mordecai
+1107,105606,"Tommaso Buscetta"
+1107,106540,Kharoun
+1107,110189,"Abdul Hamid"
+1107,113489,"Prof. Robert Crawford"
+1107,114079,Staline
+1107,119888,"Chess hustler"
+1107,143735,"Herman Melville"
+1107,145694,"Airport Guru"
+1107,160020,"Virgil Cane"
+1107,165322,"Older Seit"
+1107,169201,"Father Tardone"
+1107,169477,"Prof. Harlech"
+1107,184867,"Leopold Nettle"
+1107,185053,"John Practice"
+1107,192002,Narrator
+1107,193108,"Dr. Harold Leacher"
+1107,194289,Himself
+1107,199696,
+1107,201614,Himself
+1107,201814,Himself
+1107,213452,Leader
+1107,214299,"Dr. Gates"
+1107,216737,"Arnold Rothstein"
+1107,217943,"Will Scarlet"
+1107,221532,
+1107,222492,Noah
+1107,227153,"Bernardo Gui"
+1107,234126,Lot
+1107,235352,Scalinger
+1107,240929,Narrator
+1107,243950,Himself
+1107,248225,Minski
+1107,252550,
+1107,253049,
+1107,255031,
+1107,264469,"Taxi Driver"
+1107,279030,Chris
+1107,281621,Himself
+1107,283814,"Father Carafa"
+1107,289558,"Omar Suarez"
+1107,292021,"Pope Julius II"
+1107,294855,"Detective partner"
+1107,295608,"Duke Skaggs"
+1107,305082,Cornelius
+1107,313423,Ru'afo
+1107,319253,Mechanic
+1107,320116,"Wolfe Sr."
+1107,330194,"Clyde (the usher)"
+1107,330479,"Cyrus Kriticos"
+1107,331842,
+1107,341021,Himself
+1107,349519,Belisario
+1107,360272,Voice
+1107,374131,"Host (only for TV)"
+1107,385895,"Col. Caleb Cobb"
+1107,386966,"President Abraham Lincoln"
+1107,392185,"Joshua Browne"
+1107,396820,Jacopo
+1107,402303,L'Innominato
+1108,9076,"St. Joseph's Player #2"
+1108,41164,"Otis Patterson"
+1108,71633,Lefty
+1108,82049,"Louis Baptiste"
+1108,90793,"Daryl Chambers"
+1108,92128,Kouadio
+1108,114100,"Ed Grasic"
+1108,146855,"Pizza Delivery Driver"
+1108,168714,Yomamma
+1108,187251,"Soldier #1"
+1108,233521,Jarvis
+1108,235651,"Robert McDaniels"
+1108,282954,Austin
+1108,310877,Trumps
+1108,310880,"Patrice Mkibe"
+1108,346408,"Security Guard"
+1109,280030,"The Smurf Song"
+1110,2384,Rani
+1111,384217,Gilbi
+1112,23085,
+1113,194776,
+1114,2763,Konokko
+1114,13847,Vince
+1114,41270,"Paul Price"
+1114,68304,"Tony Farmer"
+1114,193253,Dean
+1114,209138,Bob
+1114,238913,"The OPC"
+1114,249265,"Seedy Bloke"
+1114,288234,Mickey
+1114,297709,Donkin
+1114,355040,Bill
+1114,390416,"Brian Samora"
+1114,391340,Davva
+1115,368667,Barnes
+1116,321559,"Derby Dancer"
+1117,267340,"Marshal Kampf"
+1118,2617,"Himself (Performer)"
+1118,7361,"Aryan Trivedi"
+1118,85409,Kabir
+1118,98744,
+1118,167988,"Kabir Lal"
+1118,173850,
+1118,184102,Saahil
+1118,246096,Shiven
+1118,284784,"Dr. Akash (Akki)"
+1118,355227,"Amar Patwardhan"
+1118,359934,
+1119,324257,"Himself - Professor in Sociol"
+1120,150543,"Man in Jail 1"
+1120,243617,Salome
+1120,279585,
+1120,281150,"Post Haste Delivery Man"
+1120,281219,"National Guardsman"
+1120,349661,Nicanor
+1121,388165,"Leutnant Seuter"
+1122,26998,"Phone Caller"
+1122,72913,Butch
+1122,80686,
+1122,80746,"Chris Thompson"
+1122,117809,"Gas Station Attendant"
+1122,128596,Rocco
+1122,147099,Thug
+1122,147905,
+1122,183536,"Soldier at Pier"
+1122,206157,Corey
+1122,214481,Sean
+1122,214699,Sparky
+1122,328568,Greg
+1122,350197,
+1122,350243,
+1122,353294,Dwayne
+1123,403550,"Bowie Grant"
+1124,3890,Himself
+1124,274069,"Dinner Guest"
+1124,339937,"'Mission Life' Speaker"
+1125,6754,"Flic 1"
+1125,7184,Xavier
+1125,30389,"Carlos, Rai's brother"
+1125,64949,"Serveur "Bicouli dressé""
+1125,70710,"Le facteur"
+1125,83377,"Le vigile"
+1125,197325,
+1125,214003,Pascal
+1125,217727,"Maître Hecquet"
+1125,345444,Jeannot
+1125,346777,Gomez
+1125,354232,
+1126,115062,"Ardentian Man"
+1127,159896,
+1127,204582,"Krishnan Nair"
+1128,236657,"First Guard"
+1128,295316,Lou
+1129,131559,Thug
+1130,168955,Himself
+1131,50111,
+1131,121367,"Jury Foreman"
+1131,165422,"Evil Priest"
+1132,273202,"Alex, Additional Voices"
+1133,283021,"Un enfant"
+1134,255009,"Cloud Carrier Boy"
+1135,382442,Presenter
+1136,71232,Himself
+1136,237416,Interviewee
+1138,160,Patient
+1138,5900,
+1138,68927,
+1138,71952,
+1138,100738,
+1138,200929,"Inspecteur Lorenzi"
+1138,202516,"Oncle Hans"
+1138,217650,
+1138,217689,
+1138,258635,"Monsieur Lombard"
+1138,291682,Bruno
+1138,332200,"André Brumel"
+1138,337742,Yankele
+1138,356969,"Le curé"
+1138,383978,Monnier
+1139,40309,
+1140,66213,
+1140,128618,Bruno
+1141,95960,
+1143,139677,"Capt. Arthur Fairclough"
+1143,185741,"Mr. Carter, Blacksmith"
+1143,263791,Tilly
+1144,215766,
+1145,46194,"White Socks"
+1145,231230,Thug
+1146,400,"Playroom Playmate"
+1146,150351,"Snatched Baby"
+1147,231230,"Laboratory Assistant"
+1148,2250,"Det. Steve Finn"
+1148,4694,"Night manager"
+1148,13383,
+1148,31780,"Sgt. McKinsey"
+1148,36862,Guard
+1148,47977,Tavish
+1148,56870,"Det. Greeden"
+1148,70305,"Parole Chairman"
+1148,70426,Manager
+1148,74117,"Hospital Room Cop"
+1148,76220,"Agent Stone"
+1148,80692,"Watch Captain"
+1148,81898,"Garbage Man"
+1148,87926,"Security Guard"
+1148,114612,"Cop #5"
+1148,150188,Stan
+1148,150189,Stan
+1148,151609,"Cop #5 - Detective"
+1148,155981,Grisson
+1148,160590,Mailman
+1148,167789,"Narrator, Hachiro Tohbe"
+1148,176792,Ditwaller
+1148,176905,"Off-Duty Cop"
+1148,190927,Parent
+1148,191051,"Press Coordinator"
+1148,203591,"Roger Darrow"
+1148,208506,"Mr. Brinkman"
+1148,209526,"FAA Man"
+1148,222582,"Hank Whitehead"
+1148,224027,"Friend #2"
+1148,252906,Guard
+1148,279349,"Steve Boyd"
+1148,283320,"Cop Outside Garage"
+1148,297228,"Frank Hemingway"
+1148,301557,McGraw
+1148,305949,"Deputy Clark"
+1148,308016,"Ed Dawson"
+1148,333855,Bartender
+1148,339405,
+1148,369450,"Patrolman #1"
+1148,397054,"Conelly's Grandfather, Lord F"
+1149,325570,Patrick
+1149,361296,"Wedig von Buttlär"
+1150,293770,
+1151,166240,"Bit Role"
+1151,361154,Bit
+1151,364434,Convict
+1152,23152,Himself
+1153,119756,"Irving, Police Garage Mechani"
+1154,41004,"Eric Crane"
+1154,389625,"Black Waiter"
+1155,150350,"Family in front of TV Store"
+1155,150351,"Backyard Family"
+1155,361167,"Fishing Family"
+1156,173079,"Gerald Greystone"
+1157,3643,Himself
+1157,9125,"Religious zealot #6"
+1157,68232,"Face on cutting room floor"
+1157,175621,"Technician #1/Announcer (Cour"
+1157,335880,"German Soldier in Prop Room"
+1157,366597,Interviewed
+1158,14109,Pango
+1158,241764,"Young Iraqi soldier"
+1158,269070,Small
+1159,93096,
+1160,3919,Milo
+1160,42983,Jeff
+1160,47130,"Club Bystander"
+1160,80508,"Sonny Poncelet"
+1160,107265,"F'%# You Boy"
+1160,151085,"Johnson Chapman"
+1160,176487,Steven
+1160,207505,"Richard 'K-Dog'"
+1160,209658,"Denny Byrnes"
+1160,220408,"David Fanelli"
+1160,223745,Paul
+1160,245507,"Drugs Delaney"
+1160,255696,
+1160,289666,"Bobby Prinze"
+1160,289772,"Lenny Burroughs"
+1160,311854,Himself
+1160,313122,Pockets
+1160,329113,"Berry Smith"
+1160,330104,"Billy Parks"
+1160,382556,"Zack Fisher (2002-2003)"
+1160,400582,"Henry 'Jenks' Jenkins"
+1161,60179,Brad
+1161,84006,Jeff
+1161,310303,"Yoga Jon"
+1161,363602,Jonathan
+1162,150350,"Family in front of TV Store"
+1162,361167,"Fishing Family"
+1163,150351,"Basketball Player"
+1164,1635,Himself
+1165,33002,Himself
+1166,292597,"Himself (Piano Player)"
+1167,368408,"Himself - Judge (South Africa"
+1168,73850,"Robert Blackstone"
+1168,88763,Elliot
+1168,141815,
+1168,160463,"Young Jimmy Osmond"
+1168,383319,"Maurice Stanley"
+1168,401999,"Andy Simpson (1998)"
+1169,182079,"Bell boy"
+1169,182569,"Telegram boy"
+1170,46249,"Soldier at green barn"
+1171,78267,Himself
+1172,76377,Manager
+1172,264294,
+1173,385690,Himself
+1174,147208,Lasse
+1175,79012,"Guest at Dinner Party"
+1175,133491,Photographer
+1176,44474,"Gorilla Team"
+1176,359567,Chila
+1177,17821,Karlsson
+1177,40865,Härman
+1177,78533,"First crook"
+1177,84318,"Anders Wiren"
+1177,97088,Bengtsson
+1177,100549,"Mr. Eugene"
+1177,104825,Boman
+1177,109544,Andersson
+1177,115396,Manager
+1177,115400,"Oskar Boman"
+1177,115431,"Per Bunke"
+1177,125828,Augustsson
+1177,130071,"Erik Jerker Karlsson"
+1177,136701,Sudden
+1177,138032,Brovall
+1177,142785,"K.A. Jönsson"
+1177,153760,"Mr. Olsson"
+1177,154509,"Hotel Concierge"
+1177,168511,"Clerk at the Navy Department"
+1177,173538,"Irate guest at the restaurant"
+1177,174075,"Snorken Öberg"
+1177,182464,"Senior accountant Karlsson"
+1177,182542,Karlsson
+1177,182547,Tranman
+1177,182552,Öl-Pelle
+1177,182558,"Gustafsson, merchant"
+1177,182582,Detective
+1177,184586,"Axel Andersson"
+1177,190845,Andersson
+1177,192928,Norrman
+1177,198013,"Edvard Claesson"
+1177,198265,Napoleon
+1177,209311,Jonsson
+1177,222444,Borstis
+1177,248196,"Anton Johansson"
+1177,275590,"Filip Morell"
+1177,284370,Göransson
+1177,296112,Solgren
+1177,305304,"Oskar, servant"
+1177,305885,Blomgren
+1177,306371,Svensson
+1177,312022,Johansson
+1177,312226,Eriksson
+1177,312231,"John Wester"
+1177,312696,"Herman Sjöberg"
+1177,314389,"Theater Accountant"
+1177,315360,Lundin
+1177,315362,"August Fagerlund"
+1177,317471,"Alarik Berenius"
+1177,317599,"Mrs. Doring's servant"
+1177,322312,"Wig maker"
+1177,337888,"Frans Strand"
+1177,377381,Svensson
+1178,82630,Himself
+1179,191526,
+1180,322431,
+1181,281335,"Borka robber #2"
+1181,281336,"Borkas rövare"
+1182,218221,"Member of 'Arvstwistarna'"
+1183,218221,"Member of 'Arvstwistarna'"
+1184,2256,Hasse
+1184,308193,Alexander
+1185,59397,Gyulnaz
+1186,95927,
+1187,15406,Nariman
+1187,127336,Policeman
+1187,172414,Courtier
+1187,176660,Mauserist
+1187,180821,Khurshud
+1187,188006,"Mauzerist #1"
+1187,210195,"Officer #1"
+1187,295260,Vaghinak
+1187,348861,Drunkard
+1188,18416,Artavazd
+1188,19259,Sisakyan
+1188,19625,Arsen
+1188,19688,Farmer
+1188,95807,
+1188,139921,Brutyan
+1188,141864,"Mkrtich's friend"
+1188,151847,Bar-tender
+1188,153239,Ter-Avetis
+1188,184209,
+1188,187360,"False Priest"
+1188,188007,
+1188,211051,Pavle
+1188,218893,Armen
+1188,249294,Gurgen
+1188,253640,
+1188,253676,Azat
+1188,258373,Vardan
+1188,259002,
+1188,288311,"Gevorg Saroyan"
+1188,341209,
+1188,357217,
+1188,357668,
+1188,371279,Armen
+1188,371285,"Aleksandr Myasnikyan"
+1188,372025,Matos
+1189,173130,Voskanyan
+1190,131223,"Harold Blight Smith"
+1191,43193,
+1192,260429,Lipe
+1192,369979,Lucas
+1192,383727,"José Carlos 'Zeca' Reis"
+1192,402685,"Prince Miguel (child)"
+1192,411603,Various
+1193,115768,Bagrinho
+1194,122392,
+1195,392002,
+1196,245854,Pablo
+1197,376826,Himself
+1198,67094,"Logan Despain"
+1199,130183,"Billy Bob"
+1200,253821,Himself/Vocals
+1201,364,Eisverkäufer
+1201,23108,
+1201,129681,Franz
+1201,187774,Severin
+1201,219526,"Young Man"
+1201,282943,
+1201,290562,Kilian
+1201,294660,
+1201,325394,
+1201,325543,
+1201,358796,
+1201,381692,Göbbels
+1201,389119,
+1202,259672,
+1202,278483,"Young Toni Hagen"
+1203,380742,"Master Carpenter"
+1203,399285,Host
+1203,408076,"Master Carpenter (1979-)"
+1204,308048,"British Physicist #2"
+1205,19505,
+1206,34609,
+1207,90525,"Tango dancer"
+1208,77310,
+1209,9998,
+1209,376230,Huseini
+1210,208610,Gio
+1210,247983,Jabuka
+1211,174365,
+1212,117545,"Russian Soldier"
+1214,102996,
+1214,209517,
+1214,226186,
+1214,298305,
+1214,299555,
+1214,313531,
+1214,341191,
+1214,344365,
+1214,352818,
+1214,374427,
+1215,237741,
+1216,214894,
+1217,339232,
+1218,223350,Double
+1218,305878,
+1219,40936,
+1220,120785,Trishin
+1221,28503,"Mitya (boy with clock)"
+1221,180852,"Staff Captain"
+1221,206127,Patrick
+1221,209517,
+1221,313531,
+1221,352453,
+1222,172059,Manager
+1223,142935,"Wing Cmdr. O'Farrella"
+1224,263057,Himself
+1224,385431,Correspondent
+1224,391028,Correspondent
+1224,403212,Correspondent
+1225,1199,"Samir (enfant)"
+1226,152509,"The Bees/The Producer"
+1227,236685,Himself
+1228,322725,
+1229,68825,"Police sergeant"
+1229,142541,Burns
+1230,388202,Habibe
+1231,55120,Chino
+1232,10156,"Restaurant Patron"
+1232,16943,"Baseball Fan"
+1233,24063,"Albert Wisotzky"
+1233,99632,"Dr. Helmer"
+1233,104649,"Solomon's Father"
+1233,182870,"Heinrich von Benda professzor"
+1233,204504,Mr.Benson
+1233,281639,"Arthur Stadthagen"
+1233,284424,
+1233,311215,Dada-Artist
+1233,325592,
+1233,325825,
+1233,364930,
+1233,381382,Arzt
+1233,383108,
+1233,399503,
+1233,404169,
+1234,132139,"Man in Temple Crowd #3"
+1234,155219,"Patient #2"
+1234,158609,Student
+1234,276240,Assistant
+1234,285289,Manny
+1234,300815,Pastor
+1235,142381,"French Mechanic"
+1236,34245,
+1237,361611,
+1238,16705,"Mean Wong"
+1239,115421,"Flower Shop Owner"
+1239,388148,"SA Sal Helterhoff"
+1240,126685,
+1241,73493,"Himself - Confrontation Plann"
+1242,224091,"Club doorman"
+1243,290319,Eric
+1244,378636,Himself
+1244,406332,"Himself (1994-2001)"
+1245,130988,Adler
+1246,76220,"Agent Stone"
+1247,16879,"Leon DeWilde"
+1248,91791,Ed
+1249,305006,"Bum in Theater"
+1250,136038,
+1250,311699,"Jim Skaggs"
+1251,127563,"NSA Agent"
+1252,287215,Hershberger
+1253,34333,Phil
+1254,68086,Himself
+1254,85611,"Video photographer"
+1254,274805,"Delivery Boy"
+1254,303455,Doug
+1254,317945,"Rock Journalist"
+1255,41240,"Isaac in 1917"
+1255,57365,"Prof. Orlando Sperry"
+1255,75301,"Rufe Tinker"
+1255,79684,"Parson Davies"
+1255,125885,"Prof. Kane"
+1255,130039,"Isaac Solomon"
+1255,158578,"Nate Glazier"
+1255,200870,"Joseah Dods"
+1255,203309,
+1255,245519,Curator
+1255,251155,"Abe Levi"
+1255,306732,"Mr. Brown"
+1256,128269,"Samuel Boardman"
+1257,334227,"School Janitor 1"
+1258,61855,"Clarkie Freemont"
+1259,208398,"Blister Man"
+1260,16879,"Little Leon"
+1261,147905,
+1262,142331,Ari
+1263,96747,Assassin
+1265,47451,Singer
+1266,238612,"Jenell's Men"
+1267,70217,Himself
+1268,72688,Doyle
+1268,194529,Agent
+1268,281464,Stavinski
+1269,281911,"Jerry Barr"
+1270,197508,"Rapper #1"
+1271,154695,"Clement, Waiter"
+1271,209492,"Black militant"
+1272,97042,Jeff
+1272,196894,Sam
+1272,206486,"Capt. 'Sharky' Kirgo"
+1272,231894,"Guard #2"
+1272,392058,"Randy Matthus"
+1273,293222,Michael
+1274,5571,"Mr. Blatt"
+1275,105379,"Fake Shemp"
+1276,20528,"Fake Shemp"
+1277,269765,"Man on veranda"
+1277,302221,"Bar Patron"
+1278,411941,"Co-Anchor (2001)"
+1279,83989,Red
+1280,47451,Singer
+1281,238833,
+1282,80492,Joey
+1282,109454,Ron
+1283,17992,Steward
+1283,134652,"Harpo Marx/Chico Marx"
+1283,185167,
+1283,272326,"Agent Klein"
+1284,384804,"Himself (evicted round 3)"
+1285,314911,"Interviewer (and narrator)"
+1286,143215,
+1287,97517,"Dan McAllister"
+1288,207675,Boy
+1289,141801,Brack
+1290,336033,"Production Assistant"
+1291,116366,Brian
+1292,120081,Himself
+1293,86478,"Night Club Patron"
+1294,162700,"Screamin' Honkers"
+1294,169951,"Rent-A-Cop #2"
+1295,322837,"Additional Voices"
+1296,212283,"(segment Slovo)"
+1297,33312,
+1298,316782,Fighter
+1299,244249,"Aram's father"
+1300,171742,
+1301,112795,
+1302,351884,"Agency Creative"
+1303,384816,"Knife thrower"
+1304,344862,Brau
+1304,353571,Teodomiro
+1305,345711,Himself
+1306,357126,Boris
+1306,357257,
+1307,19223,
+1308,134568,"Green-Haired Guy"
+1309,385543,Tolga
+1310,341158,
+1311,3524,
+1311,8555,
+1311,8598,
+1311,9665,
+1311,9694,Picudo
+1311,12537,
+1311,19503,Ramiro
+1311,21598,"Botones Hotel"
+1311,21703,Taxista
+1311,28960,"Todo Joe"
+1311,40448,"Narcotraficante #8"
+1311,48269,
+1311,50137,
+1311,57423,Victima
+1311,74165,
+1311,74944,Anselmo
+1311,91414,
+1311,103482,
+1311,112090,
+1311,120709,"Papa Pepito"
+1311,121952,
+1311,159417,
+1311,171381,
+1311,188348,"Hood #1"
+1311,256792,
+1311,270732,
+1311,318240,Enterrador
+1311,324839,
+1311,351570,
+1311,351650,
+1311,378415,
+1311,378430,
+1312,121310,
+1313,376758,
+1314,82300,Spog
+1314,171485,Announcer
+1314,210739,"Worm Guy"
+1314,210741,Mannix
+1314,392965,Announcer
+1315,212354,
+1316,34574,"Director Musical"
+1317,270664,
+1318,208228,
+1319,100391,Nicolás
+1320,153785,Aldrin
+1321,279702,
+1322,272992,"Pescador 2"
+1323,1747,"Himself (NL Outfielder - Phil"
+1324,213707,
+1325,384118,"Tatu (1998-2000)"
+1325,396899,Totó
+1326,317309,"Bonnie & Clyde Musical Audien"
+1327,68916,
+1328,357197,Interviewee
+1328,388262,"Himself/Singing Coach"
+1328,388263,"Himself/Singing Coach"
+1329,379093,
+1330,33148,
+1330,262233,
+1330,319367,
+1330,380531,Pipo
+1330,387901,"Hélio Colibri"
+1331,274554,
+1332,154502,João
+1333,118279,Porter
+1333,170982,Jorge
+1333,234966,"Witch doctor"
+1333,253773,Piercer
+1333,288977,Boltun
+1333,392125,"Various Characters"
+1334,300827,Caco
+1335,409183,"Himself/Enviado Especial"
+1336,88058,
+1337,25040,"Papaya's hand"
+1338,121892,
+1339,395864,
+1339,400486,Paul
+1339,401067,"Salvador Falcón"
+1339,401213,"Manrique Alonso"
+1339,412272,"Fernando Zayas"
+1340,236399,Gutierrez
+1340,379898,Cristóbal
+1340,380082,
+1340,387101,
+1340,393839,
+1340,401067,"Salvador Falcón"
+1340,401090,
+1340,412084,Jesús
+1341,265456,
+1341,327010,
+1342,25059,
+1342,278568,
+1343,97738,
+1344,55112,
+1344,69240,
+1344,74961,
+1344,149518,
+1344,210692,
+1344,212141,
+1344,241011,
+1344,295100,
+1344,378029,
+1345,383294,Rubinho
+1345,396610,"Beto (2001-2003)"
+1346,287489,Ismail
+1346,399742,
+1347,325999,Agronom
+1348,2283,Peter
+1348,16199,Dirigent
+1348,51493,"sierzant Zajicek"
+1348,65987,"Karel Capek"
+1348,87935,"D.E. Huppert"
+1348,99181,Jns
+1348,99277,King
+1348,106708,
+1348,147572,Rendl
+1348,171545,"Theatrical researcher"
+1348,172073,"Friend of Kafka"
+1348,174932,Borek
+1348,175012,"Young witness"
+1348,179890,"Duke Alexej"
+1348,180940,
+1348,181644,Knotek
+1348,205010,
+1348,205383,"Teacher Janda"
+1348,211866,"Dr. Konicek"
+1348,216572,Petrus
+1348,219293,Marek
+1348,220117,
+1348,230039,Frantisek
+1348,234256,
+1348,237201,
+1348,237537,
+1348,242726,
+1348,244177,"Lt. Lukás"
+1348,249437,Dragoun
+1348,252345,Mulligan
+1348,262562,
+1348,268276,"Neighbor Lupínek"
+1348,282758,"Prof. Zalud"
+1348,285862,Prokop
+1348,287114,Josef
+1348,308448,Himself
+1348,313911,Ptacek
+1348,317186,Pepík
+1348,317462,"Eda Brandejs"
+1348,320538,Krchnák
+1348,325999,Agronom
+1348,338167,Datel
+1348,339277,Tichácek
+1348,348553,"Tomás Ruzicka"
+1348,349375,Doctor
+1348,349895,Orlik
+1348,357297,"Dalibor Vrána"
+1348,357436,"Jakub Silberstein"
+1348,357952,
+1348,373587,"Counsel Mayer"
+1348,374284,
+1348,381196,"Martin Hardy"
+1348,383079,Paris
+1348,387031,
+1348,396630,"Police officer"
+1348,399141,"Dr. Arnost Blazej"
+1348,399142,"Dr. Arnost Blazej"
+1349,348647,Marcus
+1350,111088,Socrate
+1351,100176,Vincent
+1351,257557,
+1351,377044,Tom
+1352,101267,Himself
+1353,10264,"Gavrilo Oleksich"
+1353,11014,
+1353,26254,
+1353,46101,Samsonov
+1353,60883,
+1353,82487,
+1353,120785,"Lt. Sergei Korovin"
+1353,125565,
+1353,156424,"Prince Vladimir [Prince Vanda"
+1353,163042,
+1353,163896,"Boyar Fyodor Kolychev"
+1353,163897,"Archbishop Philip (formerly F"
+1353,198139,
+1353,198169,
+1353,202185,
+1353,219453,
+1353,238317,
+1353,246344,"Gen. Antonov"
+1353,246345,"Gen. Antonov"
+1353,249447,"Pavel Kurganov"
+1353,257030,
+1353,258643,
+1353,264320,
+1353,265976,
+1353,283755,Vladimir
+1353,293690,
+1353,294665,
+1353,307180,
+1353,314432,
+1353,318147,
+1353,320490,Balyasny
+1353,320637,
+1353,332989,"Grigori Melekhov"
+1353,341209,
+1353,351349,"Lt. Gen. Krivenko"
+1353,357294,
+1353,357456,
+1353,357662,
+1353,375859,Etienne
+1354,44359,"Mr. Fish"
+1354,60437,
+1354,162297,
+1354,180214,
+1354,225926,
+1354,320490,Gritsian
+1355,90525,"Tango dancer"
+1356,395620,"Le douanier allemand (segment"
+1357,70624,Gustavo
+1358,56304,"Jeweler Fences"
+1359,106312,
+1360,358561,"Swedish Athlete"
+1361,257318,
+1362,524,Polizeipräsident
+1362,2674,Johnny
+1362,35206,"Aggressiver Mann im Zoo"
+1362,101353,"Voices of TV-Announcer and Cr"
+1362,101355,"Aufdringlicher Herr auf Orgie"
+1362,102881,Photograph
+1362,144184,
+1362,153111,"Hotel Manager"
+1362,169121,Horak
+1362,169125,
+1362,189788,John
+1362,226170,Tanzlehrer
+1362,237446,
+1362,244684,
+1362,252667,
+1362,262513,Käseverkäufer
+1362,290741,Schwerdt
+1362,325394,Baurat
+1362,325540,Staatsanwalt
+1362,325753,"Vater Dahlmann"
+1362,329060,Sheriff
+1362,344784,Krot
+1362,348687,Wieland
+1362,352646,"Regisseur im Aufzug"
+1362,364898,
+1362,381053,
+1362,384217,Tjure
+1362,401996,Abgeordneter
+1362,404462,"Günther's Onkel"
+1362,408388,
+1362,410465,
+1363,25690,"Police Morgue's Employee"
+1364,238808,
+1365,11047,
+1366,10548,"Wounded child"
+1367,271170,Schoolgirl
+1368,314224,"1st Goon"
+1369,188696,"Pedro Abrunhosa"
+1370,2099,"The Geoduck"
+1371,343347,Himself
+1372,91055,
+1372,97147,
+1373,248662,"Perforated Aorta"
+1374,33375,Lecturer
+1375,64940,
+1376,56336,
+1376,57313,
+1376,106166,
+1376,147057,Vitali
+1376,182938,"Luca Sardo"
+1376,199506,"The Commander (segment 2 'Il "
+1376,205367,
+1376,250387,"Il Maggiore"
+1376,354881,Zaccaria
+1376,401514,"Ruggiero/Marquess's butler"
+1377,143240,
+1377,150998,Frank
+1377,161245,Himself
+1377,221783,"Hospital Security Guard"
+1377,291469,"Johnny 'Two Times'"
+1377,387152,"Sgt. John Zorelli (1988-1989)"
+1377,395023,"Anthony Gianelli (1987)"
+1377,402032,"Det. Michael McGuire (1998-20"
+1378,70512,"Rob's Dad"
+1378,218850,"Soldier #1"
+1379,339389,
+1380,283548,"Harry Pope/Stephen Manfield"
+1380,304644,Mickey
+1381,50971,"Le voisin"
+1382,323816,"Himself - Football player"
+1382,323817,"Himself - Football player"
+1383,330902,Chris
+1384,109810,Dino
+1385,64452,
+1386,51251,
+1387,18351,"Daniel Nash"
+1387,93051,Tommy
+1387,106381,Silo
+1387,194044,Rob
+1387,236118,Lewis
+1387,345858,"Benjamin Cain"
+1387,386563,"Al Large"
+1387,387247,"Matthew Rose (1997-2000)"
+1387,400632,"Drew Pritchard"
+1387,404891,"George Cosmo"
+1387,406354,Depp
+1387,407826,"Fergus Markham"
+1387,408638,
+1387,408864,Scott
+1388,18953,"Man on Street/Voice Over"
+1388,117279,"WNN Reporter Arthur Klassen"
+1389,24702,"Taxi Driver"
+1390,121529,
+1391,4307,"Man in pub"
+1391,67934,Maas
+1391,112174,
+1391,190386,Jongbloed
+1391,210128,NSB-er
+1391,218857,Postbode
+1391,245791,"PTT-monteur Jan"
+1391,290434,"Fat Man"
+1391,305315,Doorman
+1391,310947,"Rien's Father"
+1391,352677,Vader
+1391,356099,Vader
+1391,365575,"Politieman in ziekenhuis"
+1391,381049,"Lowietje (#3) (1998-1999)"
+1391,391424,
+1392,265303,
+1393,34960,Cabot
+1393,37246,Ed
+1393,60251,"Security Guard"
+1393,105228,
+1393,245678,Turnkey
+1393,335724,Harvey
+1394,56206,Chuck
+1395,158537,
+1396,278818,Himself
+1397,137300,Policeman
+1398,28242,
+1400,357976,Mahdi
+1401,285548,
+1402,290962,Joe
+1403,49134,
+1403,112263,"Bus Driver"
+1403,127662,"Suzana's father"
+1403,332327,
+1403,369043,
+1404,145285,
+1404,323754,Salah
+1406,400127,"Ahmed Rami"
+1407,140722,"Abu Said"
+1407,300565,"Abu Yussef"
+1407,323754,"Yusef's father"
+1408,45890,
+1409,256910,
+1410,141618,"Baby Jacob"
+1411,141618,"Baby Jacob"
+1412,11437,Himself
+1412,14030,Himself
+1412,222294,Himself
+1412,373957,Narrator
+1413,300565,Teacher
+1414,243984,
+1415,243984,
+1416,4363,Taylor
+1416,7378,"Taxi driver"
+1416,126411,
+1416,129737,George
+1416,172032,"Rav Shimon"
+1416,175086,"The Arab Man"
+1416,200026,
+1416,226476,
+1416,265765,
+1416,300565,Governor
+1416,348718,Bacem
+1416,371908,Yussuf
+1417,183959,Himself
+1418,209100,Jailer
+1419,127263,"Isamu Noguchi"
+1420,19019,
+1420,21198,"Ikiro Tenabe"
+1420,52435,Boss
+1420,117683,"Mugger #1"
+1420,137946,"The King"
+1420,342384,Engineer
+1421,173810,"Police Chief"
+1422,129033,
+1423,390950,Basketguy/girl
+1424,43070,
+1425,105309,"Deaf Customer #1"
+1426,49674,Himself
+1427,56881,
+1428,40657,Dealer
+1429,129868,"Pakistani Guy"
+1430,33635,
+1431,135108,
+1432,28055,Leoncio
+1432,28295,
+1432,30535,
+1432,55465,
+1432,60090,
+1432,71257,Tatang
+1432,85479,Mondragon
+1432,103774,Jaime
+1432,141380,
+1432,157080,
+1432,158673,"Terry's lawyer"
+1432,162113,Tomas
+1432,163815,
+1432,174127,
+1432,200664,
+1432,208679,
+1432,211185,
+1432,219405,
+1432,246938,
+1432,287062,Ben
+1432,294311,
+1432,322603,
+1432,334241,"Doctor at mining camp"
+1432,358509,
+1432,368320,
+1432,387832,Jaime
+1432,404049,Delfin
+1433,67955,"Other Appearance"
+1434,58916,
+1435,31085,"Jefe de policia"
+1436,48826,
+1437,207858,"The Male as a Cub"
+1438,207858,"Man at bar"
+1439,207858,"The Female's Fantasy Son"
+1440,30678,"Hotel Tenants"
+1441,43118,"Pai Vavá"
+1441,95432,"Fat Marley"
+1441,322218,"Barbecue guest"
+1442,23401,"Fernando White"
+1442,45899,
+1442,52929,
+1442,55154,"Conde de Mata-Porcos"
+1442,111492,
+1442,196657,Veríssimo
+1442,238077,
+1442,239947,
+1442,244194,"(segment "Perigo Negro")"
+1442,269534,Lawyer
+1442,294820,
+1442,354484,
+1442,379937,Policeman
+1442,380196,"Álvaro Luiz Gomes"
+1442,380446,Décio
+1442,384711,"Prof. Dimitri Nicolaievitch"
+1442,385043,"Arnon Balakian"
+1442,392510,Piconês
+1442,396795,"Nero Horácio Koll"
+1442,396810,Diogo
+1442,397787,
+1442,400445,Sebastião
+1442,402593,Ravengar
+1442,407868,"Coutinho Abreu"
+1443,239971,
+1443,249641,
+1444,23569,"King Cnute"
+1444,135622,"King Urian"
+1444,245115,"Dr. Junger"
+1445,306955,"Gabi Buchbut"
+1446,25829,
+1447,74585,
+1448,216594,Himself
+1448,378377,Solymann
+1449,356605,Ama
+1449,382126,Himself
+1449,387920,Himself/Host
+1449,394772,Host
+1450,387552,
+1451,104705,Himself
+1452,304457,
+1453,200954,"Chef Consigne"
+1454,145415,"Party Goer #8"
+1455,244821,Himself
+1456,25220,Josefo
+1456,256786,
+1457,405760,Aljoscha
+1458,316171,"BiLE (Band)"
+1459,376236,Temirton
+1460,380391,"Doctor (1988)"
+1461,16957,
+1462,16957,
+1463,56929,"Secondo Gemello"
+1464,56929,"Primo Gemello"
+1465,2755,Aranjuez
+1465,8654,
+1465,22122,Avinoam
+1465,53073,
+1465,80776,Patrick
+1465,97952,Andre
+1465,98034,Yotam
+1465,105185,Joseph
+1465,125791,Shoshana
+1465,138649,
+1465,156653,
+1465,163786,
+1465,176017,Avi
+1465,176988,Abdel
+1465,178815,
+1465,179346,Mulli
+1465,179347,
+1465,179554,
+1465,180770,
+1465,189059,Nethanel
+1465,191404,Goldy
+1465,201961,
+1465,202434,
+1465,205297,Aris
+1465,206496,"Reuven Shechter"
+1465,208730,
+1465,243256,Avram
+1465,254859,
+1465,271822,Nissem
+1465,275016,
+1465,280591,
+1465,281662,Uri
+1465,300360,Georgie
+1465,310657,Husband
+1465,371296,
+1465,405010,Rafi
+1466,176256,"Matt's Students"
+1467,127452,
+1467,175658,
+1468,30847,
+1468,63357,
+1468,64153,
+1468,178726,
+1468,292981,
+1468,356934,
+1469,33148,
+1469,43118,Ari
+1469,61342,
+1469,85521,Dorival
+1469,98759,
+1469,99107,
+1469,224991,
+1469,244958,
+1469,266480,
+1469,379814,Benjamin
+1469,384266,
+1469,386728,Sampaio
+1469,388641,
+1469,397198,
+1469,397544,
+1469,402266,Tito
+1469,402503,
+1469,407830,Benedito
+1469,408942,Benedito
+1470,23392,
+1471,245698,Fisherman
+1471,248879,"The Cab Driver"
+1472,265814,
+1472,291557,
+1472,348118,
+1473,24837,"Armando Trotta"
+1473,110104,
+1473,163744,Benito
+1473,241186,Bianchi
+1473,296540,
+1474,370863,"Funeral musician"
+1475,302333,"Vigilante de sitos arheologic"
+1476,290481,"Mexikanischer Musiker (extend"
+1477,146982,
+1478,167083,
+1479,176955,
+1480,104716,Himself
+1480,104718,Himself
+1480,104765,"Turkish entry (17th place)"
+1481,16835,Murat
