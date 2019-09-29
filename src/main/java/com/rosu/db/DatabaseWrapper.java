@@ -118,6 +118,7 @@ public class DatabaseWrapper {
         }
 
         return movies;
+        //this is the end of JDBC
 
     }
 
