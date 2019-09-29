@@ -69,10 +69,14 @@ public class Main {
             while (!option.equals("exit")) {
 
                 try {
+                    String tableName = "";
                     switch (option) {
                         case "1":
-                            databaseWrapper.createTable(Movie.class);
-                            databaseWrapper.createTable(Actor.class);
+                            System.out.print("Table name:");
+                            tableName = reader.readLine();
+
+                            databaseWrapper.createTable(Class.forName("com.rosu.model." + tableName));
+
                             break;
                         case "2":
                             databaseWrapper.deleteRecords();
@@ -104,8 +108,10 @@ public class Main {
                             break;
                         }
                         case "6": {
+                            System.out.print("Table name:");
+                            tableName = reader.readLine();
 
-                            databaseWrapper.dropTable(Movie.class);
+                            databaseWrapper.dropTable(Class.forName("com.rosu.model." + tableName));
 
                             break;
                         }
@@ -114,7 +120,7 @@ public class Main {
 
 
 
-                } catch (SQLException e) {
+                } catch (Exception e) {
                     e.printStackTrace();
                 }
 

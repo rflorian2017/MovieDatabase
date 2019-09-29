@@ -40,8 +40,6 @@ public class DatabaseWrapper {
     public void createTable(Class table) throws SQLException {
         // statement created from a JDBC connection
         Statement statement = connection.createStatement();
-
-
         String columns = "";
         // use reflection to get fields of a class
         int counter = 0;
