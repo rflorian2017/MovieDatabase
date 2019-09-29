@@ -17,11 +17,11 @@ public class DatatypeMapper {
 
     static {
         attributeDecorators = new HashMap<>();
-        attributeDecorators.put("ai", "AUTO_INCREMENT");
-        attributeDecorators.put("nn", "NOT NULL");
-        attributeDecorators.put("pk", "PRIMARY KEY");
-        attributeDecorators.put("un", "UNIQUE");
-        attributeDecorators.put("fk", "FOREIGN KEY");
+        attributeDecorators.put("ai", " AUTO_INCREMENT ");
+        attributeDecorators.put("nn", " NOT NULL ");
+        attributeDecorators.put("pk", " PRIMARY KEY ");
+        attributeDecorators.put("un", " UNIQUE ");
+        attributeDecorators.put("fk", " FOREIGN KEY ");
     }
 
 }

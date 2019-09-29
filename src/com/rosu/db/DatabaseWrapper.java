@@ -31,8 +31,8 @@ public class DatabaseWrapper {
      * You need to know the mapping between java types and sql types
      * e.g., a query should look like this
      * id INTEGER PRIMARY KEY AUTO_INCREMENT, " +
-     *                 "year INTEGER , " +
-     *                 "name TEXT NOT NULL
+     * "year INTEGER , " +
+     * "name TEXT NOT NULL
      *
      * @param table
      * @throws SQLException
@@ -42,23 +42,30 @@ public class DatabaseWrapper {
         Statement statement = connection.createStatement();
 
 
-        String columns = "id INTEGER PRIMARY KEY AUTO_INCREMENT, " +
-                "year INTEGER , " +
-                "name TEXT NOT NULL ";
-
+        String columns = "";
         // use reflection to get fields of a class
-        for (Field field: table.getDeclaredFields()) {
+        int counter = 0;
+        for (Field field : table.getDeclaredFields()) {
+            counter++;
             String fieldName = field.getName();
             // TODO : !!! Don't forget the case when the field name contains ai or pk
+            // TODO : assume that all the primary keys have id in name , are of type  id_pk
+            boolean appendType = false;
             if (fieldName.contains("pk")) {
                 fieldName = fieldName.replace("_pk", DatatypeMapper.attributeDecorators.get("pk"));
+                fieldName = fieldName.replace("id", "id " + DatatypeMapper.javaToSqlTypes.get(field.getType().getSimpleName()));
+                appendType = true;
             }
+            else {
 
+            }
             if (fieldName.contains("ai")) {
                 fieldName = fieldName.replace("_ai", DatatypeMapper.attributeDecorators.get("ai"));
             }
 
-            System.out.println(field.getName() + " " + DatatypeMapper.javaToSqlTypes.get(field.getType().getSimpleName()));
+
+            columns += fieldName + " " + (appendType?"":DatatypeMapper.javaToSqlTypes.get(field.getType().getSimpleName())) +
+                    (counter == table.getDeclaredFields().length ? "" : ",");
         }
 
         statement.executeUpdate(

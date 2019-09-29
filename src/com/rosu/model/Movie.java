@@ -4,12 +4,12 @@ public class Movie {
     private int id_pk_ai;
     private String name;
     private int year;
-    private double rank;
-    public Movie(int id_pk_ai, String name, int year, double rank) {
+    private double ranks;
+    public Movie(int id_pk_ai, String name, int year, double ranks) {
         this.id_pk_ai = id_pk_ai;
         this.name = name;
         this.year = year;
-        this.rank = rank;
+        this.ranks = ranks;
     }
     public int getId_pk_ai() {
         return id_pk_ai;
@@ -29,10 +29,10 @@ public class Movie {
     public void setYear(int year) {
         this.year = year;
     }
-    public double getRank() {
-        return rank;
+    public double getRanks() {
+        return ranks;
     }
-    public void setRank(double rank) {
-        this.rank = rank;
+    public void setRanks(double ranks) {
+        this.ranks = ranks;
     }
 }

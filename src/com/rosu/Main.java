@@ -72,6 +72,7 @@ public class Main {
                     switch (option) {
                         case "1":
                             databaseWrapper.createTable(Movie.class);
+                            databaseWrapper.createTable(Actor.class);
                             break;
                         case "2":
                             databaseWrapper.deleteRecords();
