@@ -2,6 +2,8 @@ package com.rosu;
 
 import com.rosu.constants.Constants;
 import com.rosu.db.DatabaseWrapper;
+import com.rosu.model.Actor;
+import com.rosu.model.Movie;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -42,6 +44,7 @@ public class Main {
                         "3. insert movie\n" +
                         "4. delete movie\n" +
                         "5. show all\n" +
+                        "6. drop table\n" +
                         "exit \n";
 
         System.out.println(menu);
@@ -68,7 +71,7 @@ public class Main {
                 try {
                     switch (option) {
                         case "1":
-                            databaseWrapper.createTable();
+                            databaseWrapper.createTable(Movie.class);
                             break;
                         case "2":
                             databaseWrapper.deleteRecords();
@@ -96,6 +99,12 @@ public class Main {
                             for (String movieName:databaseWrapper.showAllRecords()) {
                                 System.out.println(movieName);
                             }
+
+                            break;
+                        }
+                        case "6": {
+
+                            databaseWrapper.dropTable(Movie.class);
 
                             break;
                         }

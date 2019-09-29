@@ -1,7 +1,8 @@
 package com.rosu.db;
 
-import com.rosu.constants.Constants;
+import com.rosu.util.DatatypeMapper;
 
+import java.lang.reflect.Field;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -24,18 +25,51 @@ public class DatabaseWrapper {
         return connection;
     }
 
-    public void createTable() throws SQLException {
+
+    /**
+     * This method takes as input a class and cycles through its fields, generates the query string and then creates the table dynamically
+     * You need to know the mapping between java types and sql types
+     * e.g., a query should look like this
+     * id INTEGER PRIMARY KEY AUTO_INCREMENT, " +
+     *                 "year INTEGER , " +
+     *                 "name TEXT NOT NULL
+     *
+     * @param table
+     * @throws SQLException
+     */
+    public void createTable(Class table) throws SQLException {
         // statement created from a JDBC connection
         Statement statement = connection.createStatement();
 
+
+        String columns = "id INTEGER PRIMARY KEY AUTO_INCREMENT, " +
+                "year INTEGER , " +
+                "name TEXT NOT NULL ";
+
+        // use reflection to get fields of a class
+        for (Field field: table.getDeclaredFields()) {
+            String fieldName = field.getName();
+            // TODO : !!! Don't forget the case when the field name contains ai or pk
+            if (fieldName.contains("pk")) {
+                fieldName = fieldName.replace("_pk", DatatypeMapper.attributeDecorators.get("pk"));
+            }
+
+            if (fieldName.contains("ai")) {
+                fieldName = fieldName.replace("_ai", DatatypeMapper.attributeDecorators.get("ai"));
+            }
+
+            System.out.println(field.getName() + " " + DatatypeMapper.javaToSqlTypes.get(field.getType().getSimpleName()));
+        }
+
         statement.executeUpdate(
-                "CREATE TABLE IF NOT EXISTS movies " +
-                        "(" +
-                        "id INTEGER PRIMARY KEY AUTO_INCREMENT, " +
-                        "year INTEGER , " +
-                        "name TEXT NOT NULL " +
-                        ") "
+                "CREATE TABLE IF NOT EXISTS " + table.getSimpleName() + "(" + columns + ") "
         );
+    }
+
+    public void dropTable(Class table) throws SQLException {
+        Statement statement = connection.createStatement();
+
+        statement.executeUpdate("DROP TABLE IF EXISTS " + table.getSimpleName());
     }
 
     public void insertRecord(String movieName, int year) throws SQLException {
@@ -81,4 +115,6 @@ public class DatabaseWrapper {
         return movies;
 
     }
+
+
 }
