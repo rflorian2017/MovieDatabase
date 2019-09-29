@@ -1,10 +1,10 @@
 package com.rosu.model;
 
-public class Movie_directors {
+public class Movies_directors {
     private int directorId;
     private int movieId;
 
-    public Movie_directors(int directorId, int movieId) {
+    public Movies_directors(int directorId, int movieId) {
         this.directorId = directorId;
         this.movieId = movieId;
     }

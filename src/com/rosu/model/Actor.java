@@ -1,13 +1,13 @@
 package com.rosu.model;
 
-public class Actors {
+public class Actor {
     private int id;
     private String first_name;
     private String last_name;
     private String gender;
     private int film_count;
 
-    public Actors(int id, String first_name, String last_name, String gender, int film_count) {
+    public Actor(int id, String first_name, String last_name, String gender, int film_count) {
         this.id = id;
         this.first_name = first_name;
         this.last_name = last_name;
