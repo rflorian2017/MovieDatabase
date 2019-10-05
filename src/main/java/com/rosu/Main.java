@@ -1,7 +1,5 @@
 package com.rosu;
 
-import com.rosu.constants.Constants;
-import com.rosu.db.DatabaseWrapper;
 import com.rosu.model.Actor;
 import com.rosu.model.Movie;
 import com.rosu.repository.ActorRepository;
@@ -14,7 +12,6 @@ import javax.persistence.Persistence;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.sql.SQLException;
 
 public class Main {
 
@@ -38,9 +35,6 @@ public class Main {
                         "exit \n";
 
         System.out.println(menu);
-
-
-        DatabaseWrapper databaseWrapper = new DatabaseWrapper();
 
         try {
             String option = reader.readLine();
@@ -71,8 +65,8 @@ public class Main {
                         case "2":
                             System.out.print("actor last name:");
                             String lastNameToDelete = reader.readLine();
-                            int some_id = Integer.parseInt(reader.readLine());
-                            ((ActorRepository) actorRepository).deleteById(some_id);
+//                            int some_id = Integer.parseInt(reader.readLine());
+                            ((ActorRepository) actorRepository).deleteByName(lastNameToDelete);
                             break;
                         case "3": {
                             System.out.print("actor first name:");
@@ -103,7 +97,6 @@ public class Main {
                         case "4": {
                             System.out.print("movie name:");
                             String movieName = reader.readLine();
-                            databaseWrapper.deleteRecord(movieName);
 
                             break;
                         }
@@ -120,7 +113,6 @@ public class Main {
                             System.out.print("Table name:");
                             tableName = reader.readLine();
 
-                            databaseWrapper.dropTable(Class.forName("com.rosu.model." + tableName));
 
                             break;
                         }
