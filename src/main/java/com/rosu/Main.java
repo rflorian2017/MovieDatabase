@@ -2,6 +2,11 @@ package com.rosu;
 
 import com.rosu.constants.Constants;
 import com.rosu.db.DatabaseWrapper;
+import com.rosu.model.Actor;
+import com.rosu.model.Movie;
+import com.rosu.repository.ActorRepository;
+import com.rosu.repository.CrudRepository;
+import com.rosu.repository.MovieRepository;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
@@ -16,30 +21,17 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //region read data from terminal
-//        String user = "";
-//        String password = "";
-//        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-//
-//        try {
-//            System.out.println("Please input user:");
-//            user = reader.readLine();
-//
-//            System.out.println("Please input password:");
-//            password = reader.readLine();
-//
-//        }
-//        catch (IOException ex) {
-//
-//        }
 
-        //endregion
+        EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("Movies");
+        EntityManager entityManager = entityManagerFactory.createEntityManager();
+        CrudRepository<Actor, Integer> actorRepository = new ActorRepository(entityManager);
+        CrudRepository<Movie, Integer> movieRepository = new MovieRepository(entityManager);
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         String menu =
-                        "1. create table\n" +
-                        "2. delete all \n" +
-                        "3. insert movie\n" +
+                "1. Gibberish \n" +
+                        "2. delete by actor name \n" +
+                        "3. insert actor\n" +
                         "4. delete movie\n" +
                         "5. show all\n" +
                         "6. drop table\n" +
@@ -47,19 +39,8 @@ public class Main {
 
         System.out.println(menu);
 
+
         DatabaseWrapper databaseWrapper = new DatabaseWrapper();
-
-
-        try {
-            databaseWrapper.createConnection(
-                    Constants.DB_DRIVER_IMPLEMENTATION + "://" + Constants.DB_CONN_STRING,
-                    Constants.DB_USERNAME,
-                    Constants.DB_PASSWORD
-            );
-
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
 
         try {
             String option = reader.readLine();
@@ -70,24 +51,51 @@ public class Main {
                     String tableName = "";
                     switch (option) {
                         case "1":
-//                            System.out.print("Table name:");
-//                            tableName = reader.readLine();
-//
-//                            databaseWrapper.createTable(Class.forName("com.rosu.model." + tableName));
-                            EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("Movies");
-                            EntityManager entityManager = entityManagerFactory.createEntityManager();
+                            System.out.println("Actor id");
+                            int id = Integer.parseInt(reader.readLine());
+                            System.out.println(
+                                    actorRepository.findById(id).isPresent() ?
+                                            actorRepository.findById(id).get() :
+                                            "not found");
+
+                            System.out.println("Actor name");
+                            String name = reader.readLine();
+                            for (Actor actor : ((ActorRepository) actorRepository).findByName(name)) {
+                                System.out.println(actor);
+                                for (Movie movie : actor.getMovies()) {
+                                    System.out.println(movie.getName());
+                                }
+                            }
 
                             break;
                         case "2":
-                            databaseWrapper.deleteRecords();
+                            System.out.print("actor last name:");
+                            String lastNameToDelete = reader.readLine();
+                            int some_id = Integer.parseInt(reader.readLine());
+                            ((ActorRepository) actorRepository).deleteById(some_id);
                             break;
                         case "3": {
-                            System.out.print("movie name:");
-                            String movieName = reader.readLine();
+                            System.out.print("actor first name:");
+                            String actorFirstName = reader.readLine();
 
-                            System.out.print("year:");
-                            Integer year = Integer.parseInt(reader.readLine());
-                            databaseWrapper.insertRecord(movieName, year);
+                            System.out.print("actor last name:");
+                            String actorLastName = reader.readLine();
+
+                            Actor actor = new Actor();
+                            actor.setFirst_name(actorFirstName);
+                            actor.setLast_name(actorLastName);
+
+
+                            System.out.print("MOVIE name:");
+                            String movie_name = reader.readLine();
+
+                            Movie movie = new Movie();
+                            movie.setName(movie_name);
+
+                            actor.getMovies().add(movie);
+
+                            actorRepository.save(actor);
+                            movieRepository.save(movie);
 
                             break;
                         }
@@ -101,8 +109,9 @@ public class Main {
                         }
 
                         case "5": {
-                            for (String movieName:databaseWrapper.showAllRecords()) {
-                                System.out.println(movieName);
+
+                            for (Actor actor : actorRepository.findAll()) {
+                                System.out.println(actor.getFirst_name() + " " + actor.getLast_name());
                             }
 
                             break;
@@ -118,8 +127,6 @@ public class Main {
                     }
 
 
-
-
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
@@ -130,8 +137,7 @@ public class Main {
             }
 
 
-        }
-        catch (IOException ex) {
+        } catch (IOException ex) {
             ex.printStackTrace();
         }
 

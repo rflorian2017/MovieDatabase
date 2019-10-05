@@ -17,8 +17,16 @@ public class Movie {
     private int year;
     private double ranks;
 
-    @ManyToMany(mappedBy = "movies")
+    @ManyToMany(mappedBy = "movies", cascade = CascadeType.PERSIST, fetch = FetchType.EAGER)
     private Set<Actor> actors = new HashSet<>();
+
+    public Set<Actor> getActors() {
+        return actors;
+    }
+
+    public void setActors(Set<Actor> actors) {
+        this.actors = actors;
+    }
 
     public Movie(int id_pk_ai, String name, int year, double ranks) {
         this.id_pk_ai = id_pk_ai;
@@ -26,6 +34,11 @@ public class Movie {
         this.year = year;
         this.ranks = ranks;
     }
+
+    public Movie() {
+
+    }
+
     public int getId_pk_ai() {
         return id_pk_ai;
     }

@@ -1,10 +1,11 @@
 package com.rosu.repository;
 
 import java.util.List;
+import java.util.Optional;
 
 public interface CrudRepository<T,K> {
-    T findById(K id);
+    Optional<T> findById(K id);
     List<T> findAll();
-    T save(T object);
-    T delete(T object);
+    Optional<T> save(T object);
+    T deleteById(K id);
 }
