@@ -10,6 +10,7 @@
         <class>com.rosu.model.Actor</class>
         <class>com.rosu.model.Movie</class>
         <class>com.rosu.model.Director</class>
+        <class>com.rosu.model.Role</class>
 
 
         <properties>
@@ -19,7 +20,7 @@
             <property name="javax.persistence.jdbc.password" value="admin" />
 
             <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL57Dialect"/>
-            <property name="hibernate.hbm2ddl.auto" value="update" />
+            <property name="hibernate.hbm2ddl.auto" value="create" />
             <property name="show_sql" value="true"/>
             <property name="hibernate.temp.use_jdbc_metadata_defaults" value="false"/>
             <property name="hibernate.format_sql" value="true"/>

@@ -1,7 +1,16 @@
 package com.rosu.model;
 
+import javax.persistence.*;
+
+@Entity
+@Table
 public class Director {
+
+    @Id
+    @Column(name = "id")
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id_pk_ai;
+
     private String first_name;
     private String last_name;
 

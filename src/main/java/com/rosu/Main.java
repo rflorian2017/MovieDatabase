@@ -2,16 +2,14 @@ package com.rosu;
 
 import com.rosu.constants.Constants;
 import com.rosu.db.DatabaseWrapper;
-import com.rosu.model.Actor;
-import com.rosu.model.Movie;
 
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.SQLException;
-import java.sql.Statement;
 
 public class Main {
 
@@ -72,10 +70,12 @@ public class Main {
                     String tableName = "";
                     switch (option) {
                         case "1":
-                            System.out.print("Table name:");
-                            tableName = reader.readLine();
-
-                            databaseWrapper.createTable(Class.forName("com.rosu.model." + tableName));
+//                            System.out.print("Table name:");
+//                            tableName = reader.readLine();
+//
+//                            databaseWrapper.createTable(Class.forName("com.rosu.model." + tableName));
+                            EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("Movies");
+                            EntityManager entityManager = entityManagerFactory.createEntityManager();
 
                             break;
                         case "2":

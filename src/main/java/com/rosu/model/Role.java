@@ -1,6 +1,7 @@
 package com.rosu.model;
 
 public class Role {
+
     private int actor_id;
     private int movie_id;
     private String role;

@@ -1,10 +1,25 @@
 package com.rosu.model;
 
+import javax.persistence.*;
+import java.util.HashSet;
+import java.util.Set;
+
+@Entity
+@Table
 public class Movie {
+
+    @Id
+    @Column(name = "id")
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id_pk_ai;
+
     private String name;
     private int year;
     private double ranks;
+
+    @ManyToMany(mappedBy = "movies")
+    private Set<Actor> actors = new HashSet<>();
+
     public Movie(int id_pk_ai, String name, int year, double ranks) {
         this.id_pk_ai = id_pk_ai;
         this.name = name;
